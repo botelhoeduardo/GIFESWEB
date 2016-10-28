@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>SIGWEB 1.0b - Semeando Sustentabilidade</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="js/jquery-2.1.1.min.js"></script>
+	<script src="js/ol-debug.js" defer="defer"></script>
+	<script src="js/main.js" defer="defer"></script>
+	<script src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery-1.11.2.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/craftyslide.js"></script>
+	<script src="js/photoswipe.min.js"></script>
+
+	<!--script src="js/measure.js"></script-->
+	<link rel="stylesheet" href="css/craftyslide.css" />
+	<link href="css/ol.css" media="all" type="text/css" rel="stylesheet">
+	<link href="css/photoswipe.css" media="all" type="text/css" rel="stylesheet">
+	<link href="css/main.css" media="all" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
+
+</head>
+<body>
+	<section>
+		<div id="mapa" class="map">
+			<nav id="layers">
+				<ul>
+					<br><input type ="radio" name="layer" value="mapquest" id="mapquest" unchecked autocomplete="off"> Mapa
+					<br><input type ="radio" name="layer" value="bingmaps" id="bingmaps" checked autocomplete="off"> Satélite
+				</ul>
+			</nav>
+			<button id="geolocation">Geolocalizar</button>
+			<div id="info"></div>
+			<div id="popup" class="ol-popup">
+				<div id="popup-conteudo">
+					<a href="#" id="popup-closer" class="ol-popup-closer"></a>
+					<div id="popup-content"></div>
+					<div id="popup-coord"></div>
+				</div>
+			</div>
+
+			<div id="scale-line" class="scale-line"></div>
+			<!--div class="btn-menu" id="nav-btn">
+				<div></div>
+				<div></div>
+				<div></div>
+			</div-->
+			<div id="nav-slide">
+				<nav id="camadas" class="classecamadas">
+					<!--ul-->
+						<div class="squaredThree"> <input type ="checkbox" id="limsemeando" autocomplete="on" checked="true" name="check" value="none"/> Limite do Projeto <label for="squaredThree"></label><span id="leglim"><strong>&int;</strong></span></div>
+
+						<div class="squaredThree"> <input type ="checkbox" id="arearad" autocomplete="off" /> Áreas Recuperadas <span id="legrad">● </span><label for="squaredThree"></label></div>
+						<div class="squaredThree">  <input type ="checkbox" id="areaater" autocomplete="off"/> Áreas de ATER <label for="squaredThree"></label></div>
+						<!-- <div class="squaredThree"> <input type ="checkbox" id="areacar" autocomplete="off"/> Áreas do CAR <span id="legcar">● </span> <label for="squaredThree"></label></div>-->
+						<!--div class="squaredThree"> <input type ="checkbox" id="drenagem" autocomplete="off"/> Corpos d'água <span id="legcorp"><strong>&int;</strong></span> <label for="squaredThree"></label></div-->
+
+						<div class="squaredThree"> <input type ="checkbox" id="ucs" autocomplete="off"/> Unidades de Conservação <span id="legund">⬢</span> <label for="squaredThree"></label></div>
+
+						<!--div class="squaredThree"> <input type ="checkbox" id="geologia" autocomplete="off"/> Geologia <span id="leggeol"><strong>&int;</strong></span> <label for="squaredThree"></label></div>
+
+						<div class="squaredThree"> <input type ="checkbox" id="geomorfologia" autocomplete="off"/> Geomorfologia <span id="legmorf"><strong>&int;</strong></span> <label for="squaredThree"></label></div-->
+
+						<!-- <div class="squaredThree"> <input type ="checkbox" id="vegetacao" autocomplete="off"/> Vegetação<label for="squaredThree"></label></div>-->
+						<!-- <div class="squaredThree"> <br><input type ="checkbox" id="precipitacao" autocomplete="off"/> Precipitação<label for="squaredThree"></label></div> -->
+						<div class="squaredThree"> <input type="checkbox" id="viveiro" autocomplete="off"/> Viveiro Municipal <img id="legviv" src="img/viv_ico2.png" height="22"/><label for="squaredThree"></label></div>
+
+						<div class="squaredThree"> <input type ="checkbox" id="estradas" autocomplete="off"/> Estradas e Rodovias <span id="legest"><strong>&int;</strong></span> <label for="squaredThree"></label></div>
+						<!--/ul-->
+					</nav>
+				</div>
+			</div>
+		</section>
+	</body>
+	</html>
