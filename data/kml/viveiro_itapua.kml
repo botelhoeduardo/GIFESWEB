@@ -17,35 +17,215 @@
 
 </head>
 
-<body style="margin:0px 0px 0px 0px;overflow:hidden;background:#FFFFFF;">
-	<p style="text-align:center;font-weight:bold;background:#FFFFFF";padding:3px 3px 3px 3px;width:100%;font-size:16px>
+<body>
+	<p style="text-align:center;font-weight:bold;padding:3px 3px 3px 3px;width:100%;font-size:16px">
 		Viveiro Municipal de Itapuã do Oeste
 	</p>
 	<p>
 		
 	</p>
 	
-		<div id="slideshow">
-			<ul>
-				<li>
-					<a target="_blank" href="img/viveiro1.JPG"><img src="img/viveiro1.JPG" alt="Viveiro Municipal de Itapuã d'Oeste" width='270' height='250'/></a>
-				</li>
-				<li>
-					<a target="_blank" href="img/viveiro1.JPG"><img src="img/viveiro2.JPG" alt="Viveiro Municipal de Itapuã d'Oeste" width='270' height='250'/></a>
-				</li>
-				<li>
-					<a target="_blank" href="img/viveiro1.JPG"><img src="img/viveiro3.JPG" alt="Viveiro Municipal de Itapuã d'Oeste" width='270' height='250'/></a>
-				</li>
-				<li>
-					<a target="_blank" href="img/viveiro1.JPG"><img src="img/viveiro4.JPG" alt="Viveiro Municipal de Itapuã d'Oeste" width='270' height='250'/></a>
-				</li>
-				<li>
-					<a target="_blank" href="img/viveiro1.JPG"><img src="img/viveiro5.JPG" alt="Viveiro Municipal de Itapuã d'Oeste" width='270' height='250'/></a>
-				</li>
-			</ul>
-			
-	    	
-	    </div>
+		<h3>Galeria de fotos:</h3>
+
+  <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro1.JPG" itemprop="contentUrl" data-size="1024x1024">
+          <img src="img/viveiro1.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+                                          <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+                                          
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro2.JPG" itemprop="contentUrl" data-size="964x1024">
+          <img src="img/viveiro2.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro3.JPG" itemprop="contentUrl" data-size="1024x683">
+          <img src="img/viveiro3.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro4.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro4.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro5.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro5.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro6.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro6.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro7.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro7.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro8.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro8.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro9.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro9.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro10.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro10.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro11.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro11.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro12.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro12.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro13.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro13.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro14.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro14.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro15.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro15.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro16.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro16.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro17.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro17.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="img/viveiro18.JPG" itemprop="contentUrl" data-size="1024x768">
+          <img src="img/viveiro18.JPG" itemprop="thumbnail" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
+    </figure>
+
+
+  </div>
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element, as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+        <!-- don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+          </div>
+
+        </div>
+
+</div>
 	
 </body>
 

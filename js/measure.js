@@ -1,14 +1,10 @@
+
 function measure(map,type) {
-
 	var wgs84Sphere = new ol.Sphere(6378137);
-
-	var raster = new ol.layer.Tile({
-		source: new ol.source.OSM()
-	});
 
 	var source = new ol.source.Vector();
 
-	var vector = new ol.layer.Vector({
+	vector = new ol.layer.Vector({
 		source: source,
 		style: new ol.style.Style({
 			fill: new ol.style.Fill({
@@ -67,14 +63,14 @@ function measure(map,type) {
 	 * Message to show when the user is drawing a polygon.
 	 * @type {string}
 	 */
-	var continuePolygonMsg = 'Click to continue drawing the polygon';
+	var continuePolygonMsg = 'Clique uma vez para continuar desenhando';
 
 
 	/**
 	 * Message to show when the user is drawing a line.
 	 * @type {string}
 	 */
-	var continueLineMsg = 'Click to continue drawing the line';
+	var continueLineMsg = 'Clique uma vez para continuar desenhando';
 
 
 	/**
@@ -86,7 +82,7 @@ function measure(map,type) {
 			return;
 		}
 		/** @type {string} */
-		var helpMsg = 'Click to start drawing';
+		var helpMsg = 'Clique para começar a desenhar';
 
 		if (sketch) {
 			var geom = (sketch.getGeometry());
@@ -131,7 +127,7 @@ function measure(map,type) {
 	 */
 	var formatLength = function(line) {
 		var length;
-		if (geodesicCheckbox) {
+		if (geodesicCheckbox == true) {
 			var coordinates = line.getCoordinates();
 			length = 0;
 			var sourceProj = map.getView().getProjection();
@@ -183,7 +179,7 @@ function measure(map,type) {
 	};
 
 	function addInteraction() {
-		//var type = (type == 'area' ? 'Polygon' : 'LineString');
+		var type = (type == 'area' ? 'Polygon' : 'LineString');
 		draw = new ol.interaction.Draw({
 			source: source,
 			type: /** @type {ol.geom.GeometryType} */ (type),
@@ -295,4 +291,5 @@ function measure(map,type) {
 	};*/
 
 	addInteraction();
+
 };

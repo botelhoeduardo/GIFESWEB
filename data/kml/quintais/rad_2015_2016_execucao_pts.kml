@@ -1,0 +1,6732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="rad_2015_2016_execucao_pts" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>rad_2015_2016_execucao_pts</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_147322b0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>rad_2015_2016_execucao_pts</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>Adalto Pereira de Souza</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Adalto Pereira de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Adalto Pereira de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,1</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>42</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>17/11/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67779856934845,-9.435155102819902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Adão Inacio da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Adão Inacio da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Adão Inacio da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5,32</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>55</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>16/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67971227270318,-9.387621329956051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Saldino Marinho Pereira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Saldino Marinho Pereira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Saldino Marinho Pereira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,26</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>62</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>02/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67727882056106,-9.389428069745222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Ulises Ramos de Oliveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ulises Ramos de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Ulises Ramos de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>0,28</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>56</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>15/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67921326498015,-9.385531537546166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Telmo José Bevanger</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telmo José Bevanger</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Telmo José Bevanger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,01</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>213</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>10/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67638647005952,-9.237770921691046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Efigênia Rita Galdino</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Efigênia Rita Galdino</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Efigênia Rita Galdino</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,13</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>141</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>CA-16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>08/01/2016</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.56209479324008,-9.285661323410167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Carlinhos Galdino dos Santos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Carlinhos Galdino dos Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Carlinhos Galdino dos Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,45</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>153</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>CA-16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>15/01/2016</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.5591273398548,-9.285033593024773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Raulino Galdino</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Raulino Galdino</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Raulino Galdino</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,7</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>154</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>CA-16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>15/01/2016</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.55439843384063,-9.287732090662226,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Juarez do Amaral</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Juarez do Amaral</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Juarez do Amaral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,61</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>72</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>14/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67865600007428,-9.349031000077444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Arnaldo Lopes Palma</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Arnaldo Lopes Palma</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Arnaldo Lopes Palma</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,6</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>17/11/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67548000020178,-9.483613999279275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>Manoel Francisco Caetano</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Manoel Francisco Caetano</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Manoel Francisco Caetano</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,84</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>566</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.10019358526569,-9.456235906755191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Francisco Rodrigues da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Francisco Rodrigues da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Francisco Rodrigues da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,17</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>72</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>25/11/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67803326182553,-9.350000918004778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Luis Carlos Pereira Saraiva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Luis Carlos Pereira Saraiva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Luis Carlos Pereira Saraiva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>RO-205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>21/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.65458378211583,-9.479283976766935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Arlindo da Silva Vieira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Arlindo da Silva Vieira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Arlindo da Silva Vieira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>RO-205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Leste MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>04/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.67121929113733,-9.507618937156163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Dolsimeri Palavicini</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dolsimeri Palavicini</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Dolsimeri Palavicini</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,49</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>194</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>CP-36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>30/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.561901689911,-9.367470177702835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>Elsio de Bessa e Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Elsio de Bessa e Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Elsio de Bessa e Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,8</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-94</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>23/12/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.6062850827903,-9.298845693972034,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Amarildo Nogueira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Amarildo Nogueira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Amarildo Nogueira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>6,68</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF/SSP/ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>567</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.09746678416474,-9.459067793637162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Fernando Jorge Cordeiro</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fernando Jorge Cordeiro</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Fernando Jorge Cordeiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5,63</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>658</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-119</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.23193966948013,-9.433808073977639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Helio Luiz da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Helio Luiz da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Helio Luiz da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,16</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>117</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.20899118859246,-9.439482386896675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Joel Rodrigues de Souza</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Joel Rodrigues de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Joel Rodrigues de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,19</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>668</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-119</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.23171766643714,-9.435345085501446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Josivaldo Bispo dos Santos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Josivaldo Bispo dos Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Josivaldo Bispo dos Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,16</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>669</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-119</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.22734727065995,-9.435868088036008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Leví de Oliveira Santos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Leví de Oliveira Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Leví de Oliveira Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,87</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>699</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.21868991190985,-9.472446882710486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Lindalva da Silva de Oliveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lindalva da Silva de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Lindalva da Silva de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,37</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>700</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.21902490577474,-9.473817723801885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Valdeci de Assis Pereira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Valdeci de Assis Pereira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Valdeci de Assis Pereira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,34</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>694</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.20909944987966,-9.456266029547129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Ilto Luiz Casa Nova</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ilto Luiz Casa Nova</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Ilto Luiz Casa Nova</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,19</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>702</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.21895929033893,-9.478665189239894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Roberto Augusto da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Roberto Augusto da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Roberto Augusto da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5,43</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>731</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.22751788554194,-9.50095064045181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>João Galdino da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>João Galdino da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>João Galdino da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,22</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>635</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.17863430043258,-9.450708510682896,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Juvercino Golombieski</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Juvercino Golombieski</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Juvercino Golombieski</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,3</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>713</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.18463165342803,-9.462018964796695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>João Soares Januário</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>João Soares Januário</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>João Soares Januário</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,12</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>705</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.21765435066772,-9.471626007627188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Monclara Souza Farias</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Monclara Souza Farias</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Monclara Souza Farias</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>7,61</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>701</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.21894583648112,-9.476557895123616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Lindembergue Souza Farias</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lindembergue Souza Farias</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Lindembergue Souza Farias</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5,59</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>720</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-107</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.20990967609065,-9.488322012243573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Rosalino Garcia da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rosalino Garcia da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Rosalino Garcia da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,41</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>729</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.22720497542924,-9.498300040706512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Maria José Coimbra Rubim</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Maria José Coimbra Rubim</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Maria José Coimbra Rubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,82</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>653</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.21182613047149,-9.43884637375519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Jorge dos Reis de Oliveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jorge dos Reis de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Jorge dos Reis de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>1021</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-05</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>5º BEC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.2193559426226,-9.605780650745269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Joselina Medeiro Evaristo</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Joselina Medeiro Evaristo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Joselina Medeiro Evaristo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,2</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF/ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>264</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>RO-133</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.0731433720689,-9.548843706862234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Milton Ferreira de Souza</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Milton Ferreira de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Milton Ferreira de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>976</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>5º BEC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.19330622340345,-9.583725133697508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Ailton Leal da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ailton Leal da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Ailton Leal da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,97</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>195</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>TB-14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Tabajara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Tabajara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.13292555507024,-9.196061416502804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Sebastião Geraldo</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sebastião Geraldo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Sebastião Geraldo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,53</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>938</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MC-03</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.14405317431448,-9.583259550177646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Airton Leite da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Airton Leite da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Airton Leite da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,94</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>63</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.1873594689643,-9.223180379271877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Clemilda Barbosa de Freitas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Clemilda Barbosa de Freitas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Clemilda Barbosa de Freitas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>0,78</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>49</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.18699689648952,-9.238400791563597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Vânio Vagner de Souza Silveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Vânio Vagner de Souza Silveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Vânio Vagner de Souza Silveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,48</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.18641592725322,-9.26146192063073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Jair Alves Nepomuceno</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jair Alves Nepomuceno</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Jair Alves Nepomuceno</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,55</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>C-09</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Amigos do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Amigo do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.27530657483851,-9.500594320063943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Eduardo Valdecir de Oliveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Eduardo Valdecir de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Eduardo Valdecir de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>0,65</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>40</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>C-09</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Amigos do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Amigo do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.27054586879678,-9.496312974256632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Carlos da Silva Ramos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Carlos da Silva Ramos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Carlos da Silva Ramos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>LC-10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Amigos do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Amigo do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.30109406074229,-9.459303130028868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Creuza de Oliveira Faria</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Creuza de Oliveira Faria</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Creuza de Oliveira Faria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>8,56</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>644</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Conclusão</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle00</styleUrl>
+			<Point>
+				<coordinates>-62.20440639264087,-9.457098625494645,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
