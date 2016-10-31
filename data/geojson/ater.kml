@@ -1,0 +1,3840 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="RAD" type="string"></SimpleField>
+	<SimpleField name="ID" type="string"></SimpleField>
+	<SimpleField name="RAD_1" type="string"></SimpleField>
+	<SimpleField name="NOME" type="string"></SimpleField>
+	<SimpleField name="APP" type="int"></SimpleField>
+	<SimpleField name="SSA" type="string"></SimpleField>
+	<SimpleField name="SSP" type="int"></SimpleField>
+	<SimpleField name="ERF" type="int"></SimpleField>
+	<SimpleField name="AREA" type="string"></SimpleField>
+	<SimpleField name="SISTEMA" type="string"></SimpleField>
+	<SimpleField name="LOTE_1" type="int"></SimpleField>
+	<SimpleField name="LINHA_1" type="string"></SimpleField>
+	<SimpleField name="GELBA" type="int"></SimpleField>
+	<SimpleField name="PA_1" type="string"></SimpleField>
+	<SimpleField name="MUNICIPI_1" type="string"></SimpleField>
+	<SimpleField name="SETOR_1" type="string"></SimpleField>
+	<SimpleField name="SELECAO" type="string"></SimpleField>
+	<SimpleField name="CONTRATO" type="string"></SimpleField>
+	<SimpleField name="CONTRAPATI" type="string"></SimpleField>
+	<SimpleField name="DISTRATO" type="string"></SimpleField>
+	<SimpleField name="CONCLUSAO" type="string"></SimpleField>
+	<SimpleField name="EXECUCAO" type="string"></SimpleField>
+	<SimpleField name="STATUS" type="string"></SimpleField>
+</Schema>
+<Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-01</SimpleData>
+		<SimpleData name="ID">1.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 001</SimpleData>
+		<SimpleData name="NOME">Adalto Pereira de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">2.10000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.10000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">42</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/08/28</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/11/17</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.677798569348447,-9.435155103125453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-02</SimpleData>
+		<SimpleData name="ID">2.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 002</SimpleData>
+		<SimpleData name="NOME">Edson Pereira Saraiva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">2.60000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">3.29000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SAF</SimpleData>
+		<SimpleData name="LOTE_1">6</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/08/28</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.654000669795046,-9.481675587358438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-03</SimpleData>
+		<SimpleData name="ID">3.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 003</SimpleData>
+		<SimpleData name="NOME">João Pereira Saraiva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.74000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">5.84000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SAF</SimpleData>
+		<SimpleData name="LOTE_1">7</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/08/27</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.656544493933218,-9.484174567702098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-04</SimpleData>
+		<SimpleData name="ID">4.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 004</SimpleData>
+		<SimpleData name="NOME">Jair Cabreira</SimpleData>
+		<SimpleData name="APP">1</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">14</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/08/28</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.667724108380867,-9.495640592839038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-05</SimpleData>
+		<SimpleData name="ID">5.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 005</SimpleData>
+		<SimpleData name="NOME">Júlio Derli Carneiro</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.67000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.67000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/08/27</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.66650708643283,-9.49070089473048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-06</SimpleData>
+		<SimpleData name="ID">6.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 006</SimpleData>
+		<SimpleData name="NOME">Luiza Jorge Colombo</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.40000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.40000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">9</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/08/27</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.659462318231355,-9.48406610586602,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-07</SimpleData>
+		<SimpleData name="ID">7.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 007</SimpleData>
+		<SimpleData name="NOME">Maria Celestino dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">58</SimpleData>
+		<SimpleData name="LINHA_1">623</SimpleData>
+		<SimpleData name="GELBA">9</SimpleData>
+		<SimpleData name="PA_1">PA Vale do Jamari</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor 600</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/26</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">FALTA</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Desistente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.368952115947366,-9.156990665486774,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-08</SimpleData>
+		<SimpleData name="ID">8.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 008</SimpleData>
+		<SimpleData name="NOME">José Ferreira da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.36000000000</SimpleData>
+		<SimpleData name="SISTEMA">ERF</SimpleData>
+		<SimpleData name="LOTE_1">31</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">10</SimpleData>
+		<SimpleData name="PA_1">PA Marechal Dutra</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/08/26</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.850926075278103,-9.525406318846478,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-09</SimpleData>
+		<SimpleData name="ID">9.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 009</SimpleData>
+		<SimpleData name="NOME">Elias Rodrigues de Sales</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.74000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.74000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">57</SimpleData>
+		<SimpleData name="LINHA_1">3</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Américo Ventura</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.993586004490453,-9.49660318938561,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-10</SimpleData>
+		<SimpleData name="ID">10.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 010</SimpleData>
+		<SimpleData name="NOME">Gesiel Daniel de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">5.90000000000</SimpleData>
+		<SimpleData name="SISTEMA">SSP</SimpleData>
+		<SimpleData name="LOTE_1">26</SimpleData>
+		<SimpleData name="LINHA_1">2</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Américo Ventura</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.990052207543336,-9.455313360922846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-11</SimpleData>
+		<SimpleData name="ID">11.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 011</SimpleData>
+		<SimpleData name="NOME">Dina Alves Dias</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">2.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">87</SimpleData>
+		<SimpleData name="LINHA_1">3</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Américo Ventura</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.993632185576878,-9.462621690738388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-12</SimpleData>
+		<SimpleData name="ID">12.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 012</SimpleData>
+		<SimpleData name="NOME">Agnaldo Pereira da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">17.32000000000</SimpleData>
+		<SimpleData name="SISTEMA">SSP</SimpleData>
+		<SimpleData name="LOTE_1">46</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Américo Ventura</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.990287096072564,-9.525085293251664,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-13</SimpleData>
+		<SimpleData name="ID">13.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 013</SimpleData>
+		<SimpleData name="NOME">Eunice Alves Chaveiro</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.50000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.50000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">84</SimpleData>
+		<SimpleData name="LINHA_1">3</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Américo Ventura</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/09</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.992192713622785,-9.4674244814546,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-14</SimpleData>
+		<SimpleData name="ID">14.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 014</SimpleData>
+		<SimpleData name="NOME">Adão Inacio da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">5.32000000000</SimpleData>
+		<SimpleData name="SISTEMA">ERF</SimpleData>
+		<SimpleData name="LOTE_1">55</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">31/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/16</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679712272703178,-9.387621330260117,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-15</SimpleData>
+		<SimpleData name="ID">15.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 015</SimpleData>
+		<SimpleData name="NOME">Edinéia de Araujo Lima da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">31/07/2015</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Desistente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.682272758580901,-9.465978258289965,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-16</SimpleData>
+		<SimpleData name="ID">16.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 016</SimpleData>
+		<SimpleData name="NOME">Marcilene Bispo dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.54000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">43</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PA Marechal Dutra</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">30/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679741788452766,-9.414954606869571,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-17</SimpleData>
+		<SimpleData name="ID">17.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 017</SimpleData>
+		<SimpleData name="NOME">Saldino Marinho Pereira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.26000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">62</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">30/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/02</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.677278820561064,-9.389428070049348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-18</SimpleData>
+		<SimpleData name="ID">18.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 018</SimpleData>
+		<SimpleData name="NOME">Ulises Ramos de Oliveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.28000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">56</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">28/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/15</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679213264980149,-9.385531537850172,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-19</SimpleData>
+		<SimpleData name="ID">19.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 019</SimpleData>
+		<SimpleData name="NOME">Telmo José Bevanger</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.01000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">213</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/10</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.676386470059526,-9.237770921990434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-20</SimpleData>
+		<SimpleData name="ID">20.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 020</SimpleData>
+		<SimpleData name="NOME">Efigênia Rita Galdino</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">3.20000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">3.20000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">141</SimpleData>
+		<SimpleData name="LINHA_1">CA-16</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">29/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2016/01/08</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.562094793240085,-9.285661323711054,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-21</SimpleData>
+		<SimpleData name="ID">21.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 021</SimpleData>
+		<SimpleData name="NOME">Carlinhos Galdino dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">4.48000000000</SimpleData>
+		<SimpleData name="SISTEMA">ERF</SimpleData>
+		<SimpleData name="LOTE_1">153</SimpleData>
+		<SimpleData name="LINHA_1">CA-16</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">28/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2016/01/15</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.559127339854797,-9.285033593325636,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-22</SimpleData>
+		<SimpleData name="ID">22.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 022</SimpleData>
+		<SimpleData name="NOME">Raulino Galdino</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.70000000000</SimpleData>
+		<SimpleData name="SISTEMA">ERF</SimpleData>
+		<SimpleData name="LOTE_1">154</SimpleData>
+		<SimpleData name="LINHA_1">CA-16</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">28/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2016/01/15</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.554398433840625,-9.287732090963175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-23</SimpleData>
+		<SimpleData name="ID">23.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 023</SimpleData>
+		<SimpleData name="NOME">João Becker</SimpleData>
+		<SimpleData name="APP">4</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">4.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">71</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">11</SimpleData>
+		<SimpleData name="PA_1">PA Marechal Dutra</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/10/08</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.833112442685035,-9.526673566132104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-24</SimpleData>
+		<SimpleData name="ID">24.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 024</SimpleData>
+		<SimpleData name="NOME">Eurandi Ribeiro da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">15</SimpleData>
+		<SimpleData name="LINHA_1">2</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Américo Ventura</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/11/06</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">FALTA 2015</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Desistente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.011833999739281,-9.481135000379936,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-25</SimpleData>
+		<SimpleData name="ID">25.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 025</SimpleData>
+		<SimpleData name="NOME">Devercy Dias da Rocha</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.22000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.22000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">6</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/11/06</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.689198796487226,-9.50553873002832,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-26</SimpleData>
+		<SimpleData name="ID">26.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 026</SimpleData>
+		<SimpleData name="NOME">Juarez do Amaral</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.98000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.61000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SAF</SimpleData>
+		<SimpleData name="LOTE_1">72</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">28/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/14</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.678656000074284,-9.349031000380307,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-27</SimpleData>
+		<SimpleData name="ID">27.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 027</SimpleData>
+		<SimpleData name="NOME">José Roberto Bispo dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">33</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">31/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.678808185149592,-9.439817554636363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-28</SimpleData>
+		<SimpleData name="ID">28.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 028</SimpleData>
+		<SimpleData name="NOME">Roosevelt Delanio Nantes</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-86</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/11/07</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">FALTA</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.715606999863098,-9.339880000161827,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-29</SimpleData>
+		<SimpleData name="ID">29.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 029</SimpleData>
+		<SimpleData name="NOME">Jucelino da Silva dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">15.87000000000</SimpleData>
+		<SimpleData name="SISTEMA">SSP</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">605</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">General Carneiro</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/11/07</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.183979357861062,-9.172736798964081,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-30</SimpleData>
+		<SimpleData name="ID">30.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 030</SimpleData>
+		<SimpleData name="NOME">Antônio Lourenço da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">60</SimpleData>
+		<SimpleData name="LINHA_1">623</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Vale do Jamari</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor 600</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/11/19</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.370997999857771,-9.158594000212872,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-31</SimpleData>
+		<SimpleData name="ID">31.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 031</SimpleData>
+		<SimpleData name="NOME">Arnaldo Lopes Palma</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.20000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">3.95000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">22</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/11/19</SimpleData>
+		<SimpleData name="CONTRAPATI">28/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/11/17</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.675480000201787,-9.483613999586339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-32</SimpleData>
+		<SimpleData name="ID">32.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 032</SimpleData>
+		<SimpleData name="NOME">Juarez de Paula</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">3.04000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">3.04000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">4</SimpleData>
+		<SimpleData name="LINHA_1">BR-364</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor BR</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/11/17</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/02/03</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.156417397145105,-9.283416037619986,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-33</SimpleData>
+		<SimpleData name="ID">33.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 033</SimpleData>
+		<SimpleData name="NOME">Edson Marcos da Cruz</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">5</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">5.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">SSP</SimpleData>
+		<SimpleData name="LOTE_1">67</SimpleData>
+		<SimpleData name="LINHA_1">623</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Vale do Jamari</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor 600</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2014/11/19</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.377364000248349,-9.164621000258933,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-34</SimpleData>
+		<SimpleData name="ID">34.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 034</SimpleData>
+		<SimpleData name="NOME">Selvino Twadowski</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.52000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.52000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">12</SimpleData>
+		<SimpleData name="LINHA_1">113</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">General Carneiro</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/02/06</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/02/06</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.161125322875307,-9.258580180131162,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-35</SimpleData>
+		<SimpleData name="ID">35.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 035</SimpleData>
+		<SimpleData name="NOME">José Lourenço dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">3.51000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">3.51000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">56</SimpleData>
+		<SimpleData name="LINHA_1">116</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor BR</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/02/05</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/03/09</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.110222221977949,-9.286252778143137,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-36</SimpleData>
+		<SimpleData name="ID">36.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 036</SimpleData>
+		<SimpleData name="NOME">Amilto Silvério</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">4.40000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">20</SimpleData>
+		<SimpleData name="LINHA_1">R. Japim</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">General Carneiro</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/02/05</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/02/24</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.17073888848887,-9.185263889217085,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-37</SimpleData>
+		<SimpleData name="ID">37.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 037</SimpleData>
+		<SimpleData name="NOME">Milton Julião de Oliveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">7.70000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">8</SimpleData>
+		<SimpleData name="LINHA_1">D</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor BR</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/02/05</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/02/11</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.091888889160884,-9.330638888773649,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-38</SimpleData>
+		<SimpleData name="ID">38.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 038</SimpleData>
+		<SimpleData name="NOME">Luiz Otávio Cabral</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.06000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">32</SimpleData>
+		<SimpleData name="LINHA_1">119</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor BR</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/02/05</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/02/26</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.09127784569597,-9.321734808214785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-39</SimpleData>
+		<SimpleData name="ID">39.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 039</SimpleData>
+		<SimpleData name="NOME">Nelson Perez Fernandes</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.90000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.90000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">SN</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">-</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">General Carneiro</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/03/24</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.163283333359118,-9.146583333054309,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-40</SimpleData>
+		<SimpleData name="ID">40.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 040</SimpleData>
+		<SimpleData name="NOME">Nevalcir Adriano da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.50000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">18</SimpleData>
+		<SimpleData name="LINHA_1">Mineração</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">General Carneiro</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRATO">2015/02/06</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/02/08</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.152373787120553,-9.219675422083014,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="RAD">RAD-41</SimpleData>
+		<SimpleData name="ID">41.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 041</SimpleData>
+		<SimpleData name="NOME">Heron da Silva Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">5.86000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">618</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">-</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">General Carneiro</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/03/21</SimpleData>
+		<SimpleData name="EXECUCAO">2014 - 2015</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.20518098211658,-9.09669938436906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">96.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 096</SimpleData>
+		<SimpleData name="NOME">Maria de Fátima Firmino</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">39</SimpleData>
+		<SimpleData name="LINHA_1">MP-07</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">5º BEC</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.217470562516382,-9.726457976654274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">93.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 093</SimpleData>
+		<SimpleData name="NOME">Manoel Francisco Caetano</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">4.84000000000</SimpleData>
+		<SimpleData name="SISTEMA">ERF</SimpleData>
+		<SimpleData name="LOTE_1">566</SimpleData>
+		<SimpleData name="LINHA_1">MA-31</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/01</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.100193585265693,-9.456235907061398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">109.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 109</SimpleData>
+		<SimpleData name="NOME">Jorge dos Reis de Oliveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">1021</SimpleData>
+		<SimpleData name="LINHA_1">MA-05</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">5º BEC</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.219355942622599,-9.605780651056136,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">97.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 097</SimpleData>
+		<SimpleData name="NOME">Joselina Medeiro Evaristo</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.99000000000</SimpleData>
+		<SimpleData name="SISTEMA">ERF</SimpleData>
+		<SimpleData name="LOTE_1">264</SimpleData>
+		<SimpleData name="LINHA_1">RO-133</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.073143372068898,-9.548843707171329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">95.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 095</SimpleData>
+		<SimpleData name="NOME">Milton Ferreira de Souza</SimpleData>
+		<SimpleData name="APP">5</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">5.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">976</SimpleData>
+		<SimpleData name="LINHA_1">MP-21</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">5º BEC</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Desistente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.193306223403454,-9.583725134007693,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">102.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 102</SimpleData>
+		<SimpleData name="NOME">Ailton Leal da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.70000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">195</SimpleData>
+		<SimpleData name="LINHA_1">TB-14</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PA Tabajara</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Tabajara</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/02</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.132925555070244,-9.196061416800887,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">94.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 094</SimpleData>
+		<SimpleData name="NOME">Jacinto Natalino Pinto</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">979</SimpleData>
+		<SimpleData name="LINHA_1">MP-21</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">5º BEC</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.195254121680314,-9.583321544353739,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">84.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 084</SimpleData>
+		<SimpleData name="NOME">Francisco Rodrigues da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.17000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">72</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/15</SimpleData>
+		<SimpleData name="CONTRAPATI">30/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/11/25</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.678033261825526,-9.350000918307671,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">46.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 046</SimpleData>
+		<SimpleData name="NOME">Joaquim Pereira Saraiva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">4</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.650346075910647,-9.476775107784931,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">87.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 087</SimpleData>
+		<SimpleData name="NOME">Iria Dahm</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">14</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.669246599450965,-9.493561619273237,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">85.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 085</SimpleData>
+		<SimpleData name="NOME">Luis Carlos Pereira Saraiva</SimpleData>
+		<SimpleData name="APP">1</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">6</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/16</SimpleData>
+		<SimpleData name="CONTRAPATI">30/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/21</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.654583782115829,-9.479283977073862,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">43.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 043</SimpleData>
+		<SimpleData name="NOME">Semeão José de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">10</SimpleData>
+		<SimpleData name="PA_1">PA Marechal Dutra</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.868958549797178,-9.523396569695876,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">44.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 044</SimpleData>
+		<SimpleData name="NOME">Maria de Lourdes de Abreu Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">28</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">10</SimpleData>
+		<SimpleData name="PA_1">PA Marechal Dutra</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.862024077149385,-9.524994825950387,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">42.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 042</SimpleData>
+		<SimpleData name="NOME">José Mendes da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">11</SimpleData>
+		<SimpleData name="PA_1">PA Marechal Dutra</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.885686354441646,-9.526007357353592,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">61.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 061</SimpleData>
+		<SimpleData name="NOME">Lucas Ferreira da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">30</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">10</SimpleData>
+		<SimpleData name="PA_1">PA Marechal Dutra</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.853887496910431,-9.524991511948656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">91.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 091</SimpleData>
+		<SimpleData name="NOME">Guoerino Doré Gonçalves</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">48</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">10</SimpleData>
+		<SimpleData name="PA_1">PA Marechal Dutra</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.79045288918946,-9.52558325955971,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">47.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 047</SimpleData>
+		<SimpleData name="NOME">Luis Alberto da Silva Sbardeloto</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">9</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.660169831072785,-9.487004564209201,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">48.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 048</SimpleData>
+		<SimpleData name="NOME">Rejane Carneiro</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">32</SimpleData>
+		<SimpleData name="LINHA_1">Corrente</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.646155326906758,-9.507431650050535,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">49.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 049</SimpleData>
+		<SimpleData name="NOME">Rogério Carneiro</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">Corrente</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.652321773131291,-9.509056837403079,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">56.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 056</SimpleData>
+		<SimpleData name="NOME">Cícero Melo Amorim</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.678583387013646,-9.377209783604599,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">57.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 057</SimpleData>
+		<SimpleData name="NOME">José Maria Amorim</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">63</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.677590284563969,-9.387483731289137,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">55.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 055</SimpleData>
+		<SimpleData name="NOME">Tânia Rogoski</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.677628320490555,-9.385747171894424,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">89.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 089</SimpleData>
+		<SimpleData name="NOME">Arlindo da Silva Vieira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/14</SimpleData>
+		<SimpleData name="CONTRAPATI">31/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/04</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.671219291137334,-9.507618937463974,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">60.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 060</SimpleData>
+		<SimpleData name="NOME">Sebastião Gomes de Moraes</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">56</SimpleData>
+		<SimpleData name="LINHA_1">MA-03</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Américo Ventura</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.991454015890099,-9.499199013223858,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">79.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 079</SimpleData>
+		<SimpleData name="NOME">Abraão Pereira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">24</SimpleData>
+		<SimpleData name="LINHA_1">B-94</SimpleData>
+		<SimpleData name="GELBA">6</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.641511587589655,-9.407935302971794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">50.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 050</SimpleData>
+		<SimpleData name="NOME">Ademir Gomes de Oliveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">71</SimpleData>
+		<SimpleData name="LINHA_1">3</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Américo Ventura</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Dois de Julho</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.994433560660241,-9.480955623403247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">70.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 070</SimpleData>
+		<SimpleData name="NOME">Carlos Cardoso dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">43</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.663938823218075,-9.508471256443272,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">71.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 071</SimpleData>
+		<SimpleData name="NOME">Gildete Soares Moreno</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">10</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">8</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.661717903358522,-9.487711550047948,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">80.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 080</SimpleData>
+		<SimpleData name="NOME">Nilton César Ribeiro</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">CP-70</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.538263632260794,-9.288218109777915,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">52.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 052</SimpleData>
+		<SimpleData name="NOME">Ana Maria dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">28</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.677425911876306,-9.466417027623663,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">53.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 053</SimpleData>
+		<SimpleData name="NOME">Adilson Alves Rodrigues</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679756147028513,-9.458613565263763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">65.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 065</SimpleData>
+		<SimpleData name="NOME">Amalrido Barbosa</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679712012799087,-9.457084966897639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">54.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 054</SimpleData>
+		<SimpleData name="NOME">Adalton Alves Rodrigues</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">23</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679809248398044,-9.460295933310649,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">68.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 068</SimpleData>
+		<SimpleData name="NOME">Gilmar Rosa</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">18</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679343501201572,-9.471366246854757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">67.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 067</SimpleData>
+		<SimpleData name="NOME">Lucilene Cândida da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679974954780285,-9.418925462639947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">58.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 058</SimpleData>
+		<SimpleData name="NOME">Pedro Franscico da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">35</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679261309461822,-9.432229630093332,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">66.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 066</SimpleData>
+		<SimpleData name="NOME">José Alves Barbosa</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">25</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679213272174707,-9.45461530085538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">62.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 062</SimpleData>
+		<SimpleData name="NOME">Asincrito Pascoal dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.677844859252794,-9.486071578740336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">51.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 051</SimpleData>
+		<SimpleData name="NOME">Alcemar da Silva Rodriguez</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.678403170070226,-9.453918116727664,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">63.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 063</SimpleData>
+		<SimpleData name="NOME">Cleber da Silva Rodriguez</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">33</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.67814731384744,-9.454768086677802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">59.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 059</SimpleData>
+		<SimpleData name="NOME">Balbino Bispo dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">32</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.679072128975527,-9.439799902743289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">72.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 072</SimpleData>
+		<SimpleData name="NOME">Mario Romanha</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">CP-07</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.632042707604846,-9.490205082298644,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">75.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 075</SimpleData>
+		<SimpleData name="NOME">Isabela Clara de Oliveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">67</SimpleData>
+		<SimpleData name="LINHA_1">CA-01</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.600943500142364,-9.486933028536384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">73.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 073</SimpleData>
+		<SimpleData name="NOME">Luzia Ziviane</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">66</SimpleData>
+		<SimpleData name="LINHA_1">CP-07</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.590604318334549,-9.478382962503645,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">76.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 076</SimpleData>
+		<SimpleData name="NOME">Natal Pasian</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">41</SimpleData>
+		<SimpleData name="LINHA_1">CP-07</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.618128601953408,-9.434664967214417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">74.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 074</SimpleData>
+		<SimpleData name="NOME">Ademir Zarcanti</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">70</SimpleData>
+		<SimpleData name="LINHA_1">CP-06</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.59678463390366,-9.490835544824506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">82.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 082</SimpleData>
+		<SimpleData name="NOME">Deidimar Mendonça dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">45</SimpleData>
+		<SimpleData name="LINHA_1">CA-22</SimpleData>
+		<SimpleData name="GELBA">3</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim II</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.555101310676896,-9.271868577972441,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">78.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 078</SimpleData>
+		<SimpleData name="NOME">Girlene Macete Mendonça</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">46</SimpleData>
+		<SimpleData name="LINHA_1">CA-22</SimpleData>
+		<SimpleData name="GELBA">3</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim II</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.550612680131053,-9.264735754451465,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">77.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 077</SimpleData>
+		<SimpleData name="NOME">Lauro Lucindo Lopes</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">28</SimpleData>
+		<SimpleData name="LINHA_1">CA-22</SimpleData>
+		<SimpleData name="GELBA">3</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim II</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2014 - 2015</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.567559461599849,-9.247101324366554,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">81.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 081</SimpleData>
+		<SimpleData name="NOME">Dolsimeri Palavicini</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">4.49000000000</SimpleData>
+		<SimpleData name="SISTEMA">SSP</SimpleData>
+		<SimpleData name="LOTE_1">194</SimpleData>
+		<SimpleData name="LINHA_1">CP-36</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/16</SimpleData>
+		<SimpleData name="CONTRAPATI">30/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/30</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.561901689910997,-9.367470178006272,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">86.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 086</SimpleData>
+		<SimpleData name="NOME">Elsio de Bessa e Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">2.80000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.80000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-94</SimpleData>
+		<SimpleData name="GELBA">6</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/15</SimpleData>
+		<SimpleData name="CONTRAPATI">29/06/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="CONCLUSAO">2015/12/23</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.606285082790301,-9.298845694273325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">88.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 088</SimpleData>
+		<SimpleData name="NOME">José Carlos de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">61</SimpleData>
+		<SimpleData name="LINHA_1">CA-61</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.611205978772887,-9.499326691773376,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">90.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 090</SimpleData>
+		<SimpleData name="NOME">José Flor dos Reis</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">136</SimpleData>
+		<SimpleData name="LINHA_1">B-86</SimpleData>
+		<SimpleData name="GELBA">4</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.715980211317678,-9.386811147216633,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">83.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 083</SimpleData>
+		<SimpleData name="NOME">Antônio Dias de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-90</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor 90</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/15</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">30/07/2015</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Desistente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.677098255580006,-9.308667071628008,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">92.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 092</SimpleData>
+		<SimpleData name="NOME">Amarildo Nogueira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">2.93000000000</SimpleData>
+		<SimpleData name="SSP">3</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">6.68000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF/SSP/ERF</SimpleData>
+		<SimpleData name="LOTE_1">567</SimpleData>
+		<SimpleData name="LINHA_1">MA-31</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/01</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.097466784164737,-9.459067793943461,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">105.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 105</SimpleData>
+		<SimpleData name="NOME">Daniel Cirilo de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">693</SimpleData>
+		<SimpleData name="LINHA_1">MA-02</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.215955203969422,-9.449195793750846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">106.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 106</SimpleData>
+		<SimpleData name="NOME">Fernando Jorge Cordeiro</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">5.63000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">5.63000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">658</SimpleData>
+		<SimpleData name="LINHA_1">MP-119</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/01</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.231939669480134,-9.433808074283149,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">103.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 103</SimpleData>
+		<SimpleData name="NOME">Helio Luiz da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.16000000000</SimpleData>
+		<SimpleData name="SISTEMA">SSP</SimpleData>
+		<SimpleData name="LOTE_1">117</SimpleData>
+		<SimpleData name="LINHA_1">MP-117</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">29/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.208991188592456,-9.439482387202361,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">107.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 107</SimpleData>
+		<SimpleData name="NOME">Joel Rodrigues de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.19000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.19000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">668</SimpleData>
+		<SimpleData name="LINHA_1">MP-119</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/01</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.231717666437135,-9.435345085807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">100.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 100</SimpleData>
+		<SimpleData name="NOME">Josivaldo Bispo dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.85000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.16000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SAF</SimpleData>
+		<SimpleData name="LOTE_1">669</SimpleData>
+		<SimpleData name="LINHA_1">MP-119</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.227347270659955,-9.435868088341579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">99.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 099</SimpleData>
+		<SimpleData name="NOME">Leví de Oliveira Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">2.33000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">4.87000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SAF</SimpleData>
+		<SimpleData name="LOTE_1">699</SimpleData>
+		<SimpleData name="LINHA_1">MP-113</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/22</SimpleData>
+		<SimpleData name="CONTRAPATI">FALTA</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.218689911909848,-9.472446883017199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">108.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 108</SimpleData>
+		<SimpleData name="NOME">Lindalva da Silva de Oliveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.37000000000</SimpleData>
+		<SimpleData name="SISTEMA">ERF</SimpleData>
+		<SimpleData name="LOTE_1">700</SimpleData>
+		<SimpleData name="LINHA_1">MP-113</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.219024905774738,-9.473817724108642,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">104.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 104</SimpleData>
+		<SimpleData name="NOME">Rumão José da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">695</SimpleData>
+		<SimpleData name="LINHA_1">MP-113</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Desistente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.216767708163161,-9.459670805563178,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">101.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 101</SimpleData>
+		<SimpleData name="NOME">Sebastião Geraldo</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.51000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/ERF</SimpleData>
+		<SimpleData name="LOTE_1">938</SimpleData>
+		<SimpleData name="LINHA_1">MC-03</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.144053174314486,-9.58325955048781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">98.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 098</SimpleData>
+		<SimpleData name="NOME">Valdeci de Assis Pereira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">4.60000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF/SSP</SimpleData>
+		<SimpleData name="LOTE_1">694</SimpleData>
+		<SimpleData name="LINHA_1">MP-113</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/06/29</SimpleData>
+		<SimpleData name="CONTRAPATI">FALTA</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.209099449879659,-9.456266029853341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">115.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 115</SimpleData>
+		<SimpleData name="NOME">Antônio Soares de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">97</SimpleData>
+		<SimpleData name="LINHA_1">RO-205</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.604015513205354,-9.42958435973037,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">116.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 116</SimpleData>
+		<SimpleData name="NOME">Evanildo Alves da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">145</SimpleData>
+		<SimpleData name="LINHA_1">B-94</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Reprovado</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.642807392846862,-9.361075866957663,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">117.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 117</SimpleData>
+		<SimpleData name="NOME">Maria Elena da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">122</SimpleData>
+		<SimpleData name="LINHA_1">B-98</SimpleData>
+		<SimpleData name="GELBA">6</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.61475290762052,-9.37836553474159,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">118.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 118</SimpleData>
+		<SimpleData name="NOME">Nilson Barbosa Maipira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">37</SimpleData>
+		<SimpleData name="LINHA_1">B-94</SimpleData>
+		<SimpleData name="GELBA">6</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Leste MT</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.640550305851889,-9.377363156684284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">119.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 119</SimpleData>
+		<SimpleData name="NOME">Pedro Nunes de Castilhos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">130</SimpleData>
+		<SimpleData name="LINHA_1">B-98</SimpleData>
+		<SimpleData name="GELBA">6</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.619051369325184,-9.397445578250769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">120.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 120</SimpleData>
+		<SimpleData name="NOME">Airton Leite da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.81000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.81000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">63</SimpleData>
+		<SimpleData name="LINHA_1">12</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Belo Horizonte</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Belo Horizonte</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/16</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.187359468964303,-9.223180379570806,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">121.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 121</SimpleData>
+		<SimpleData name="NOME">Clemilda Barbosa de Freitas</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.78000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.78000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">49</SimpleData>
+		<SimpleData name="LINHA_1">12</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Belo Horizonte</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Belo Horizonte</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/02</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.186996896489518,-9.238400791863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">122.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 122</SimpleData>
+		<SimpleData name="NOME">Vânio Vagner de Souza Silveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.48000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.48000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">29</SimpleData>
+		<SimpleData name="LINHA_1">12</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Belo Horizonte</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Belo Horizonte</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/02</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.186415927253222,-9.261461920930856,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">123.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 123</SimpleData>
+		<SimpleData name="NOME">Ilto Luiz Casa Nova</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.19000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.19000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">702</SimpleData>
+		<SimpleData name="LINHA_1">MP-113</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.218959290338944,-9.478665189546803,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">124.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 124</SimpleData>
+		<SimpleData name="NOME">Roberto Augusto da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">5.43000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">5.43000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">731</SimpleData>
+		<SimpleData name="LINHA_1">MP-111</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/29</SimpleData>
+		<SimpleData name="CONTRAPATI">29/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.227517885541943,-9.500950640759413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">125.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 125</SimpleData>
+		<SimpleData name="NOME">João Galdino da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.22000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.22000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">635</SimpleData>
+		<SimpleData name="LINHA_1">MP-105</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/01</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.178634300432577,-9.450708510988932,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">110.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 110</SimpleData>
+		<SimpleData name="NOME">Juvercino Golombieski</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">3.35000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP</SimpleData>
+		<SimpleData name="LOTE_1">713</SimpleData>
+		<SimpleData name="LINHA_1">MA-37</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/16</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.184631653428028,-9.462018965103084,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">111.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 111</SimpleData>
+		<SimpleData name="NOME">Jair Alves Nepomuceno</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.55000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.55000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">17</SimpleData>
+		<SimpleData name="LINHA_1">C-09</SimpleData>
+		<SimpleData name="GELBA">3</SimpleData>
+		<SimpleData name="PA_1">PA Amigos do Campo</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Amigo do Campo</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.27530657483851,-9.500594320371533,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">112.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 112</SimpleData>
+		<SimpleData name="NOME">Eduardo Valdecir de Oliveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">SAF</SimpleData>
+		<SimpleData name="LOTE_1">40</SimpleData>
+		<SimpleData name="LINHA_1">C-09</SimpleData>
+		<SimpleData name="GELBA">3</SimpleData>
+		<SimpleData name="PA_1">PA Amigos do Campo</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Amigo do Campo</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/06/30</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.270545868796781,-9.496312974564091,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">113.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 113</SimpleData>
+		<SimpleData name="NOME">Carlos da Silva Ramos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">2</SimpleData>
+		<SimpleData name="AREA">2.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">ERF</SimpleData>
+		<SimpleData name="LOTE_1">14</SimpleData>
+		<SimpleData name="LINHA_1">LC-10</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Amigos do Campo</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Amigo do Campo</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.301094060742287,-9.459303130335172,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">114.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 114</SimpleData>
+		<SimpleData name="NOME">Pedro Rodrigues de Souza</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">21</SimpleData>
+		<SimpleData name="LINHA_1">CA-14</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.583293962346431,-9.325764539901572,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">126.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 126</SimpleData>
+		<SimpleData name="NOME">João Furtado</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">35</SimpleData>
+		<SimpleData name="LINHA_1">C-06</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Cedro Jequitibá</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.28382328861386,-9.559947933250498,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">127.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 127</SimpleData>
+		<SimpleData name="NOME">José Pereira de Oliveira Filho</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">68</SimpleData>
+		<SimpleData name="LINHA_1">12</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Belo Horizonte</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Belo Horizonte</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.216692949320141,-9.262479020890055,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">128.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 128</SimpleData>
+		<SimpleData name="NOME">Ailton Rodrigues dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">70</SimpleData>
+		<SimpleData name="LINHA_1">12</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PA Belo Horizonte</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Belo Horizonte</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.18697291876515,-9.217074731113883,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">129.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 129</SimpleData>
+		<SimpleData name="NOME">João Mariano Pimentel</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">928</SimpleData>
+		<SimpleData name="LINHA_1">MC-03</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.122692734282232,-9.567265781490562,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">130.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 130</SimpleData>
+		<SimpleData name="NOME">Lindonezia Libanio da Silveira</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">MA-35</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.197507781358979,-9.458466664604828,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">131.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 131</SimpleData>
+		<SimpleData name="NOME">Nair Ramos de Sousa</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">B-94</SimpleData>
+		<SimpleData name="GELBA">5</SimpleData>
+		<SimpleData name="PA_1">PF Jaru Ouro Preto</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor União</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Pendente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.643035997813001,-9.351235414083021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">132.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 132</SimpleData>
+		<SimpleData name="NOME">José Duarte da Rosa</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">C-05</SimpleData>
+		<SimpleData name="GELBA">1</SimpleData>
+		<SimpleData name="PA_1">PA Cedro Jequitibá</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.262563506100896,-9.573569097335906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">133.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 133</SimpleData>
+		<SimpleData name="NOME">Alcy Alves Leopoldino</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">732</SimpleData>
+		<SimpleData name="LINHA_1">MP-111</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.228653928036294,-9.506234878137093,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">134.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 134</SimpleData>
+		<SimpleData name="NOME">Paulo da Silva Sousa</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">1130</SimpleData>
+		<SimpleData name="LINHA_1">MP-29</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.241018842645424,-9.591628824010968,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">144.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 144</SimpleData>
+		<SimpleData name="NOME">Creuza de Oliveira Faria</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">8.56000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SSP</SimpleData>
+		<SimpleData name="LOTE_1">644</SimpleData>
+		<SimpleData name="LINHA_1">MA-35</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/30</SimpleData>
+		<SimpleData name="CONTRAPATI">30/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.204406392640863,-9.457098625800882,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">138.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 138</SimpleData>
+		<SimpleData name="NOME">Roberto Camargo Rosa</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">649</SimpleData>
+		<SimpleData name="LINHA_1">MP-117</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/29</SimpleData>
+		<SimpleData name="CONTRAPATI">29/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">FALTA</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Desistente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.20937483757865,-9.439338297824122,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">137.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 137</SimpleData>
+		<SimpleData name="NOME">João Soares Januário</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">4.12000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SSP</SimpleData>
+		<SimpleData name="LOTE_1">705</SimpleData>
+		<SimpleData name="LINHA_1">MP-113</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/29</SimpleData>
+		<SimpleData name="CONTRAPATI">29/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.217654350667715,-9.471626007933878,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">139.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 139</SimpleData>
+		<SimpleData name="NOME">Monclara Souza Farias</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.32000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">7.61000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SAF/SSP</SimpleData>
+		<SimpleData name="LOTE_1">701</SimpleData>
+		<SimpleData name="LINHA_1">MP-113</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/28</SimpleData>
+		<SimpleData name="CONTRAPATI">28/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.218945836481112,-9.47655789543046,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">140.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 140</SimpleData>
+		<SimpleData name="NOME">Lindembergue Souza Farias</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.86000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">9.46000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SAF/SSP</SimpleData>
+		<SimpleData name="LOTE_1">720</SimpleData>
+		<SimpleData name="LINHA_1">MP-107</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/28</SimpleData>
+		<SimpleData name="CONTRAPATI">28/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.209909676090653,-9.488322012550782,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">141.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 141</SimpleData>
+		<SimpleData name="NOME">Rosalino Garcia da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">3.41000000000</SimpleData>
+		<SimpleData name="SISTEMA">APP/SSP</SimpleData>
+		<SimpleData name="LOTE_1">729</SimpleData>
+		<SimpleData name="LINHA_1">MP-111</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/29</SimpleData>
+		<SimpleData name="CONTRAPATI">29/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.227204975429238,-9.498300041014035,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">142.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 142</SimpleData>
+		<SimpleData name="NOME">Vanderlino Marinho da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">666</SimpleData>
+		<SimpleData name="LINHA_1">MP-119</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/30</SimpleData>
+		<SimpleData name="CONTRAPATI">30/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Desistente</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.239062751544679,-9.433651705561715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">143.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 143</SimpleData>
+		<SimpleData name="NOME">Maria José Coimbra Rubim</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">3.82000000000</SimpleData>
+		<SimpleData name="SISTEMA">SSP</SimpleData>
+		<SimpleData name="LOTE_1">653</SimpleData>
+		<SimpleData name="LINHA_1">MA-41</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Machadinho</SimpleData>
+		<SimpleData name="MUNICIPI_1">Machadinho D'Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Machadinho</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2015/07/30</SimpleData>
+		<SimpleData name="CONTRAPATI">30/07/2015</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.211826130471486,-9.438846374060859,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">136.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 136</SimpleData>
+		<SimpleData name="NOME">Elvio Gaudêncio</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">46</SimpleData>
+		<SimpleData name="LINHA_1">CC-02</SimpleData>
+		<SimpleData name="GELBA">2</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.496476474209892,-9.335636789206433,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">135.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 135</SimpleData>
+		<SimpleData name="NOME">Cleiton de Moraes Lopes</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.00000000000</SimpleData>
+		<SimpleData name="SISTEMA">-</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">CA-22</SimpleData>
+		<SimpleData name="GELBA">3</SimpleData>
+		<SimpleData name="PA_1">PA Cujubim II</SimpleData>
+		<SimpleData name="MUNICIPI_1">Cujubim</SimpleData>
+		<SimpleData name="SETOR_1">Setor Cujubim</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">-</SimpleData>
+		<SimpleData name="STATUS">Recusou</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.561099742858808,-9.265779852957792,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">145.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 145</SimpleData>
+		<SimpleData name="NOME">Maria Gorete Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.33000000000</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">BR-364</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">PF Alto Madeira</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor BR</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2016/01/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.154441110999976,-9.292965611301055,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">146.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 146</SimpleData>
+		<SimpleData name="NOME">Dilmar Cavalheiro</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">2.13000000000</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">616</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">-</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor 600</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2016/01/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.199279247999982,-9.13250777929607,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">147.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 147</SimpleData>
+		<SimpleData name="NOME">Claudio Martins</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.28000000000</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">BR-364</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">-</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor BR</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2016/01/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.255813588999956,-9.123237800295774,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">148.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 148</SimpleData>
+		<SimpleData name="NOME">Neil Soares Pinheiro</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.90000000000</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">BR-364</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">-</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Setor BR</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="CONTRATO">2016/01/21</SimpleData>
+		<SimpleData name="CONTRAPATI">-</SimpleData>
+		<SimpleData name="DISTRATO">-</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.17090971599999,-9.226578513298975,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">152.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 152</SimpleData>
+		<SimpleData name="NOME">Esvetlana Rodrigues da Silva</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">0.00000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">0.33000000000</SimpleData>
+		<SimpleData name="LOTE_1">127</SimpleData>
+		<SimpleData name="LINHA_1">Estrada da balsa</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">-</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SETOR_1">Azul</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.205546832999978,-9.199740205298154,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="ID">151.00000000000</SimpleData>
+		<SimpleData name="RAD_1">COD 151</SimpleData>
+		<SimpleData name="NOME">João Flausino dos Santos</SimpleData>
+		<SimpleData name="APP">0</SimpleData>
+		<SimpleData name="SSA">1.61000000000</SimpleData>
+		<SimpleData name="SSP">0</SimpleData>
+		<SimpleData name="ERF">0</SimpleData>
+		<SimpleData name="AREA">1.61000000000</SimpleData>
+		<SimpleData name="LOTE_1">0</SimpleData>
+		<SimpleData name="LINHA_1">São Pedro</SimpleData>
+		<SimpleData name="GELBA">0</SimpleData>
+		<SimpleData name="PA_1">-</SimpleData>
+		<SimpleData name="MUNICIPI_1">Itapuã do Oeste</SimpleData>
+		<SimpleData name="SELECAO">2015 - 2016</SimpleData>
+		<SimpleData name="EXECUCAO">2015 - 2016</SimpleData>
+		<SimpleData name="STATUS">Concluso</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.304759465999958,-8.981163799291291,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
