@@ -1,0 +1,25 @@
+{
+	"owl" : [
+		{"item" : "<span class='item'><a href='img/viveiro1.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro1.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro2.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro2.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro3.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro3.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro4.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro4.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro5.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro5.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro6.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro6.JPG' width='270' height='250'/></a></span>"}
+		/*{"item" : "<span class='item'><a href='img/viveiro7.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro7.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro8.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro8.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro9.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro9.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro10.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro10.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro11.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro11.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro12.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro12.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro13.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro13.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro14.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro14.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro15.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro15.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro16.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro16.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro17.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro17.JPG' width='270' height='250'/></a></span>"},
+		{"item" : "<span class='item'><a href='img/viveiro18.JPG' target='_blank'><img class='lazyOwl' src='img/viveiro18.JPG' width='270' height='250'/></a></span>"}
+		
+
+*/
+	]
+}

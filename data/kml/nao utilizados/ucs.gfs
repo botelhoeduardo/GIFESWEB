@@ -1,0 +1,27 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>ucs</Name>
+    <ElementPath>ucs</ElementPath>
+    <GeometryType>-2147483642</GeometryType>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>29</FeatureCount>
+      <ExtentXMin>-63.30618</ExtentXMin>
+      <ExtentXMax>-61.49614</ExtentXMax>
+      <ExtentYMin>-9.78692</ExtentYMin>
+      <ExtentYMax>-8.57577</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>Name</Name>
+      <ElementPath>Name</ElementPath>
+      <Type>String</Type>
+      <Width>57</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>Description</Name>
+      <ElementPath>Description</ElementPath>
+      <Type>String</Type>
+      <Width>1439</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

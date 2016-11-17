@@ -1,0 +1,7359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="rad_2015_2016_execucao_pol" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>rad_2015_2016_execucao_pol</name>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fffaf3d2</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>rad_2015_2016_execucao_pol</name>
+		<Snippet maxLines="0"></Snippet>
+		<description>Base contendo o polígono de recuperação das áreas de trabalhoprojeto Quintais Amazônicos. Esta base contém todos os dados dos produtores foi ou será executado no período 2015 - 2016.Os dados inseridos datam de 2015a 2016.Datum: GCS_SIRGAS_2000</description>
+		<Placemark id="ID_00000">
+			<name>Carlos da Silva Ramos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Carlos da Silva Ramos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Carlos da Silva Ramos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>14</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>LC-10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Amigos do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Amigo do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.30029162899997,-9.450442788693938,0 -62.30030004999998,-9.449999780693959,0 -62.30224675699999,-9.450084037693927,0 -62.30224029899995,-9.450494821693908,0 -62.30029162899997,-9.450442788693938,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.29998514899994,-9.446045062694038,0 -62.29999071599997,-9.445671966694077,0 -62.30226462599995,-9.445707005694086,0 -62.30225692999994,-9.446087323694069,0 -62.29998514899994,-9.446045062694038,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>Jair Alves Nepomuceno</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jair Alves Nepomuceno</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Jair Alves Nepomuceno</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,55</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>17</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>C-09</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Amigos do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Amigo do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.27683099999996,-9.499753999692373,164.2087999999931 -62.27610199999999,-9.499782999692412,169.4398999999976 -62.27592999999995,-9.49800399969247,168.9940000000061 -62.27663799999993,-9.498000999692421,160.2596999999951 -62.27683099999996,-9.499753999692373,164.2087999999931 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>Eduardo Valdecir de Oliveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Eduardo Valdecir de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Eduardo Valdecir de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>0,65</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>40</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>C-09</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Amigos do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Amigo do Campo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>30/06/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.26993599999997,-9.495614999692492,165.4373000000051 -62.27077599999996,-9.495747999692494,164.7575999999972 -62.27077599999996,-9.495946999692498,171.2087000000029 -62.27033299999994,-9.496139999692511,166.218200000003 -62.27027199999997,-9.496391999692495,167.2044000000024 -62.26994299999996,-9.496984999692458,168.6557999999932 -62.26993599999997,-9.495614999692492,165.4373000000051 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>Fernando Jorge Cordeiro</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Fernando Jorge Cordeiro</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Fernando Jorge Cordeiro</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5,63</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>658</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-119</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>01/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.23173199999996,-9.431948999694521,0 -62.23182399999995,-9.430382999694546,0 -62.23195299999997,-9.428225999694602,0 -62.23309999999998,-9.428239999694625,0 -62.23306599999997,-9.43037799969456,0 -62.23305899999998,-9.432000999694507,0 -62.23173199999996,-9.431948999694521,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>Joel Rodrigues de Souza</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Joel Rodrigues de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Joel Rodrigues de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,19</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>668</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-119</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>01/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.23298599999998,-9.435251999694376,145.3632999999973 -62.23180799999994,-9.435325999694419,145.3228999999992 -62.23168999999996,-9.434637999694413,146.5525999999954 -62.23298299999993,-9.434373999694408,145.7203000000009 -62.23298599999998,-9.435251999694376,145.3632999999973 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>Josivaldo Bispo dos Santos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Josivaldo Bispo dos Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Josivaldo Bispo dos Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,16</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>669</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-119</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22730830899998,-9.437318250694345,0 -62.22712994099998,-9.438156004694296,0 -62.22714030699996,-9.438539621694293,0 -62.22639861199997,-9.43869725969431,0 -62.22615781399998,-9.438750554694295,0 -62.22598312099996,-9.438533953694321,0 -62.22568044399998,-9.437925308694343,0 -62.22562129799997,-9.437675101694326,0 -62.22557835899994,-9.43749792369433,0 -62.22566106099998,-9.437481612694308,0 -62.22584161999998,-9.437453650694316,0 -62.22584145999997,-9.437454694694303,0 -62.22730830899998,-9.437318250694345,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<innerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22580315599999,-9.437708035694312,0 -62.22581918299995,-9.437599994694343,0 -62.22580252699999,-9.437708627694308,0 -62.22586683799995,-9.437944244694286,0 -62.22580315599999,-9.437708035694312,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.22610373499999,-9.438311141694324,0 -62.22600274599996,-9.438160760694304,0 -62.22610267999993,-9.438309976694312,0 -62.22620965699997,-9.438590716694296,0 -62.22621161999997,-9.438591823694299,0 -62.22610373499999,-9.438311141694324,0 
+							</coordinates>
+						</LinearRing>
+					</innerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>Helio Luiz da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Helio Luiz da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Helio Luiz da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,16</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>117</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-117</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.20719581499998,-9.445464275694064,0 -62.20683439099997,-9.446478199694042,0 -62.20661527899995,-9.446355522694065,0 -62.20646447399997,-9.446423105694036,0 -62.20603727199995,-9.446201143694033,0 -62.20629353399994,-9.445205582694099,0 -62.20719581499998,-9.445464275694064,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>Maria José Coimbra Rubim</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Maria José Coimbra Rubim</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Maria José Coimbra Rubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,82</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>653</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>30/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.21046658899997,-9.438834247694313,0 -62.21032780199993,-9.438120885694335,0 -62.21024447399998,-9.437267262694348,0 -62.20988834499997,-9.435923848694374,0 -62.21101383199994,-9.436579237694382,0 -62.21179200799997,-9.437009999694318,0 -62.21189981299993,-9.438109578694315,0 -62.21109698999999,-9.438236501694293,0 -62.21116733999998,-9.438692951694277,0 -62.21046658899997,-9.438834247694313,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00008">
+			<name>Valdeci de Assis Pereira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Valdeci de Assis Pereira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Valdeci de Assis Pereira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,34</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>694</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>29/06/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.21058569499996,-9.454760068693812,0 -62.21086747599997,-9.454485391693828,0 -62.21100881299999,-9.454346136693809,0 -62.21141669799994,-9.45398765569384,0 -62.21341522399995,-9.454997340693799,0 -62.21348042599993,-9.45515040469375,0 -62.21347608199994,-9.455171637693793,0 -62.21224684899994,-9.455949320693733,0 -62.21058569499996,-9.454760068693812,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.21652577499999,-9.452605054693839,0 -62.21639491799994,-9.452549510693878,0 -62.21640768299994,-9.452426185693875,0 -62.21679373199999,-9.452551305693877,0 -62.21634441599996,-9.454503579693782,0 -62.21576902999993,-9.454371101693774,0 -62.21589432899997,-9.453664408693815,0 -62.21632654399997,-9.453760176693804,0 -62.21652577499999,-9.452605054693839,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00009">
+			<name>Creuza de Oliveira Faria</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Creuza de Oliveira Faria</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Creuza de Oliveira Faria</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>8,56</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>644</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>30/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.20172511699996,-9.454555579693817,0 -62.20290080200001,-9.454530826693775,0 -62.20401062599997,-9.454283352693791,0 -62.20400939699994,-9.454281193693827,0 -62.20414013199996,-9.454238006693812,0 -62.20418865099998,-9.454343162693824,0 -62.20426992499995,-9.454498892693783,0 -62.20430258899995,-9.454587914693775,0 -62.20436472699998,-9.454689842693764,0 -62.20444150599997,-9.454814421693806,0 -62.20453138899995,-9.454970146693757,0 -62.20459176499998,-9.455074622693799,0 -62.20466187899996,-9.455178270693788,0 -62.20471417899994,-9.455273378693768,0 -62.20477607299996,-9.455341857693759,0 -62.20485513099998,-9.455393097693762,0 -62.20491998299998,-9.455456859693785,0 -62.20496165299994,-9.455560808693774,0 -62.20499505699996,-9.455699180693749,0 -62.20504067199994,-9.455774942693742,0 -62.20505515199994,-9.455825386693748,0 -62.20507943099995,-9.455890142693777,0 -62.20513785799994,-9.45596607669377,0 -62.20516314799994,-9.456040148693729,0 -62.20522902599998,-9.456130216693746,0 -62.20527871899997,-9.456188763693728,0 -62.20531562999997,-9.456280050693755,0 -62.20537418299995,-9.456363063693747,0 -62.20543691899997,-9.456430420693723,0 -62.20548576099998,-9.456451215693733,0 -62.20554134399998,-9.456503012693757,0 -62.20559108899994,-9.456558458693733,0 -62.20566767099996,-9.456592930693711,0 -62.20572441999997,-9.456652995693725,0 -62.20580083199998,-9.45669970969373,0 -62.20584553399993,-9.456702011693713,0 -62.20598662199996,-9.45668579569371,0 -62.20605849599996,-9.456785349693735,0 -62.20612504799993,-9.456959452693734,0 -62.20593094699995,-9.45701645469374,0 -62.20520656799994,-9.456365055693768,0 -62.20592903799997,-9.457018801693703,0 -62.20483522399996,-9.457330721693696,0 -62.20472345599995,-9.456924491693695,0 -62.20483634599999,-9.456703464693749,0 -62.20416342999993,-9.456099537693726,0 -62.20392546399996,-9.456180134693744,0 -62.20185089099995,-9.456935739693721,0 -62.20172511699996,-9.454555579693817,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00010">
+			<name>João Soares Januário</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>João Soares Januário</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>João Soares Januário</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,12</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>705</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>29/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.21420249799996,-9.470909742693268,0 -62.21518417399994,-9.470884515693287,0 -62.21564767099994,-9.471995719693238,0 -62.21449365999996,-9.472031555693235,0 -62.21420249799996,-9.470909742693268,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.21518709099997,-9.470889070693264,0 -62.21552224299995,-9.470882288693307,0 -62.21600043999997,-9.471949494693236,0 -62.21565160899997,-9.471996544693267,0 -62.21518709099997,-9.470889070693264,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.21621425099994,-9.470808410693286,0 -62.21646982499993,-9.470671679693291,0 -62.21652510399998,-9.470590776693269,0 -62.21708821399994,-9.470642770693315,0 -62.21708836299996,-9.47064328469328,0 -62.21808971299999,-9.470743970693272,0 -62.21813125899996,-9.471499731693241,0 -62.21781181699998,-9.471538076693246,0 -62.21779678999997,-9.471227900693288,0 -62.21724255599997,-9.471171157693274,0 -62.21715033799995,-9.47085761169331,0 -62.21745782399995,-9.471920981693273,0 -62.21648820399998,-9.471973192693243,0 -62.21621425099994,-9.470808410693286,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00011">
+			<name>Monclara Souza Farias</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Monclara Souza Farias</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Monclara Souza Farias</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>7,61</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>701</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>28/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22192143999995,-9.479569479693017,0 -62.22223953899999,-9.478199959693033,0 -62.22237553599996,-9.478222406693082,0 -62.22237403799994,-9.478249876693042,0 -62.22237181599996,-9.478324404693069,0 -62.22238577099995,-9.478400702693078,0 -62.22234656299996,-9.478482000693072,0 -62.22234873699994,-9.478762177693044,0 -62.22229788199997,-9.478915096693052,0 -62.22227393899993,-9.479017776693047,0 -62.22224298799993,-9.479121795693036,0 -62.22215511299999,-9.479446223693026,0 -62.22214678899996,-9.479525863693047,0 -62.22209658899993,-9.479686142693041,0 -62.22192143999995,-9.479569479693017,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22003228699999,-9.476325019693098,0 -62.22053743499998,-9.476343398693139,0 -62.22055658599998,-9.47668891069309,0 -62.22054097599994,-9.476343135693131,0 -62.22276871299994,-9.476415785693122,0 -62.22248090599999,-9.477568547693092,0 -62.22220962499994,-9.477554774693056,0 -62.22185299599994,-9.477359040693079,0 -62.22169278599995,-9.477177811693114,0 -62.22142374399993,-9.477358996693086,0 -62.22101063099996,-9.477564283693111,0 -62.22069862999995,-9.477837563693088,0 -62.22059071299998,-9.478019469693047,0 -62.22033464499998,-9.478282807693065,0 -62.22043700099994,-9.478317105693062,0 -62.22073498499999,-9.478265639693067,0 -62.22095214299996,-9.478135005693053,0 -62.22117407599996,-9.478081989693074,0 -62.22138598399993,-9.477929251693082,0 -62.22182104599996,-9.477865307693053,0 -62.22201494999997,-9.477992666693082,0 -62.22226821399993,-9.47805575469307,0 -62.22191934699999,-9.479567497693001,0 -62.21930499599996,-9.477806507693074,0 -62.21952612999996,-9.476850929693105,0 -62.21999874999995,-9.476814050693113,0 -62.22012823399995,-9.476819196693091,0 -62.21999889299996,-9.476813655693084,0 -62.22003228699999,-9.476325019693098,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00012">
+			<name>Rosalino Garcia da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rosalino Garcia da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Rosalino Garcia da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,41</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>729</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>29/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22603499799993,-9.498133013692446,0 -62.22632739899995,-9.497817657692469,0 -62.22632592499998,-9.497815339692426,0 -62.22732792799997,-9.496710755692499,0 -62.22775477999994,-9.498011002692419,0 -62.22730068,-9.498152292692456,0 -62.22649271499994,-9.498611965692412,0 -62.22646914799998,-9.498258378692416,0 -62.22649147599999,-9.498610536692405,0 -62.22637011899997,-9.498790889692415,0 -62.22613202099994,-9.498831409692444,0 -62.22612694899993,-9.498418426692409,0 -62.22610879699995,-9.498315298692436,0 -62.22603499799993,-9.498133013692446,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22736002399994,-9.496702435692493,0 -62.22808907099994,-9.495920580692504,0 -62.22819235399998,-9.497039199692482,0 -62.22826407699995,-9.497850389692433,0 -62.22777258899998,-9.498006203692466,0 -62.22736002399994,-9.496702435692493,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00013">
+			<name>Roberto Augusto da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Roberto Augusto da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Roberto Augusto da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5,43</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>731</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-111</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>29/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22942199999994,-9.502781999692306,0 -62.22963899999998,-9.501317999692356,0 -62.23225999999994,-9.502557999692312,0 -62.23146799999995,-9.503434999692288,0 -62.22942199999994,-9.502781999692306,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22789099999994,-9.501516999692358,0 -62.22838199999995,-9.500750999692386,0 -62.22921399999996,-9.50112299969234,0 -62.22856699999995,-9.502582999692304,0 -62.22789099999994,-9.501516999692358,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00014">
+			<name>Lindembergue Souza Farias</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lindembergue Souza Farias</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Lindembergue Souza Farias</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5,59</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF/SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>720</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-107</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>28/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.21080553999997,-9.483754808692881,0 -62.21129016299995,-9.483810693692874,0 -62.211308359,-9.483761867692865,0 -62.21144181799997,-9.483761870692888,0 -62.21180223899995,-9.483896983692885,0 -62.21180004499998,-9.483897156692875,0 -62.21183611499998,-9.486444791692779,0 -62.21094671299994,-9.4865374016928,0 -62.21183471599994,-9.486446183692779,0 -62.21184318499996,-9.486961101692783,0 -62.21049913299998,-9.487084986692773,0 -62.21039872899996,-9.486593691692773,0 -62.21039952799999,-9.486593609692786,0 -62.21032474999999,-9.486266754692831,0 -62.21038629199995,-9.48544586369281,0 -62.21040474299997,-9.484005626692856,0 -62.21040874899995,-9.484005315692903,0 -62.21060481099994,-9.483890881692899,0 -62.21080553999997,-9.483754808692881,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00015">
+			<name>João Galdino da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>João Galdino da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>João Galdino da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,22</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>635</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>01/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.17850599999997,-9.450357999693908,129.4140999999945 -62.17840299999996,-9.450640999693929,132.1542999999947 -62.17699799999998,-9.450659999693936,129.9149000000034 -62.17689357899998,-9.449766832693946,125.5466000000015 -62.17838899999997,-9.450169999693937,128.1710000000021 -62.17850599999997,-9.450357999693908,129.4140999999945 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00016">
+			<name>Amarildo Nogueira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Amarildo Nogueira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Amarildo Nogueira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>6,68</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF/SSP/ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>567</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>31/06/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.09782071799998,-9.459868371693638,0 -62.09829466899998,-9.460351181693618,0 -62.09785690599994,-9.461023791693576,0 -62.09729247499997,-9.460522150693624,0 -62.09782071799998,-9.459868371693638,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.09785662899998,-9.461027120693613,0 -62.09832545999996,-9.46030672769364,0 -62.09855233599996,-9.459788210693613,0 -62.10003753399997,-9.461096757693577,0 -62.09979605099993,-9.461354970693565,0 -62.09905617299994,-9.462096613693568,0 -62.09785662899998,-9.461027120693613,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.09782071799998,-9.459868371693638,0 -62.09728913999999,-9.46052212669359,0 -62.09674683999999,-9.460036629693608,0 -62.09726386799996,-9.45951266769363,0 -62.09674326199997,-9.460038415693646,0 -62.09622087599997,-9.459575510693657,0 -62.09686580399995,-9.458941376693682,0 -62.09736490499995,-9.45941063269364,0 -62.09736402999993,-9.45941151669367,0 -62.09782071799998,-9.459868371693638,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.09536596499998,-9.458842868693676,0 -62.09616813599996,-9.45800729369371,0 -62.09693489999994,-9.458870431693679,0 -62.09621757299993,-9.459574133693664,0 -62.09536596499998,-9.458842868693676,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00017">
+			<name>Milton Ferreira de Souza</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Milton Ferreira de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Milton Ferreira de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>976</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>5º BEC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.18583478399995,-9.58398835668976,0 -62.18588663899993,-9.585337471689702,0 -62.18207769099995,-9.586291515689698,0 -62.18210515199996,-9.586005733689714,0 -62.18218973399996,-9.585893079689699,0 -62.18233180499993,-9.585921573689689,0 -62.18243098699998,-9.585907378689683,0 -62.18260733299996,-9.585835881689722,0 -62.18273876799997,-9.585727164689732,0 -62.18276843399997,-9.585496773689739,0 -62.18276366199996,-9.58547406068972,0 -62.18285297299997,-9.585258444689739,0 -62.18296905299998,-9.585405519689704,0 -62.18309672599998,-9.585266316689706,0 -62.18315251199994,-9.585164025689748,0 -62.18326801299996,-9.584881065689762,0 -62.18344243499995,-9.584756329689732,0 -62.18365975299997,-9.584612331689739,0 -62.18374003499997,-9.584526277689736,0 -62.18419723699998,-9.584351175689722,0 -62.18447597899996,-9.584342367689764,0 -62.18464854899997,-9.584244144689759,0 -62.18481664699993,-9.584153727689737,0 -62.18495669599998,-9.584043769689746,0 -62.18526504999994,-9.584089856689786,0 -62.18540292099993,-9.584053089689746,0 -62.18583478399995,-9.58398835668976,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00018">
+			<name>Sebastião Geraldo</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sebastião Geraldo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Sebastião Geraldo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,53</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>938</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MC-03</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.14757571499996,-9.584050812689783,0 -62.14783917799996,-9.583730309689782,0 -62.14821442299996,-9.583726468689756,0 -62.14876631599999,-9.583725372689754,0 -62.14900015199999,-9.58401674968974,0 -62.14938354399992,-9.584189160689729,0 -62.14981119199997,-9.584241906689782,0 -62.14990472199997,-9.58438116068975,0 -62.15014663499994,-9.584845418689756,0 -62.15029608399994,-9.585223931689733,0 -62.15034831999996,-9.585607800689742,0 -62.15018131299997,-9.58608550968972,0 -62.14985646899999,-9.586184411689708,0 -62.14943218299999,-9.586894815689643,0 -62.14911727499998,-9.586631363689696,0 -62.14933545499996,-9.585752874689723,0 -62.14942522699993,-9.585715918689694,0 -62.14968920599995,-9.585779253689687,0 -62.14992470499994,-9.585884543689703,0 -62.15002457099996,-9.585692830689714,0 -62.15007300499997,-9.585544833689722,0 -62.15003527899995,-9.58529957868975,0 -62.14995542399997,-9.584975878689734,0 -62.14969475599997,-9.584557107689749,0 -62.14935858599994,-9.584527103689753,0 -62.14907954699999,-9.584462240689719,0 -62.14875718899998,-9.584296821689742,0 -62.14848726099995,-9.58397953768975,0 -62.14821522099998,-9.584036304689734,0 -62.14816742499995,-9.584432726689775,0 -62.14797522799996,-9.58440430668974,0 -62.14789096299995,-9.584317899689774,0 -62.14741509699996,-9.584410941689772,0 -62.14731079499995,-9.584262857689735,0 -62.14757571499996,-9.584050812689783,0 -62.14781634999997,-9.584228194689784,0 -62.14787597899993,-9.584222534689781,0 -62.14797375899996,-9.58430057368974,0 -62.14787704899999,-9.584221828689746,0 -62.14781711799996,-9.584224078689768,0 -62.14757571499996,-9.584050812689783,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<innerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.14814869799994,-9.583956234689772,0 -62.14853976999996,-9.583880698689777,0 -62.14853755199993,-9.583876549689769,0 -62.14814785899994,-9.58395623468977,0 -62.14812103499996,-9.584222240689766,0 -62.14814869799994,-9.583956234689772,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.14891642399994,-9.584289302689735,0 -62.14890733899994,-9.584282547689778,0 -62.14891862199995,-9.584290990689732,0 -62.14906571999995,-9.58436444868976,0 -62.149066679,-9.584364731689727,0 -62.14891642399994,-9.584289302689735,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.14931767599995,-9.584433973689775,0 -62.14907418899998,-9.584366948689755,0 -62.14930131499996,-9.584433991689753,0 -62.14963572399995,-9.584469530689765,0 -62.14931767599995,-9.584433973689775,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.15000947899994,-9.584928959689737,0 -62.15000905099999,-9.584927150689712,0 -62.14982380099996,-9.584634463689763,0 -62.15000947899994,-9.584928959689737,0 -62.15009385799993,-9.585292485689726,0 -62.15012972299996,-9.585550712689738,0 -62.15007608799994,-9.585709799689715,0 -62.15001982299999,-9.585813908689719,0 -62.15007584299996,-9.585711822689698,0 -62.15013148699995,-9.585554635689686,0 -62.15009427899998,-9.585284645689704,0 -62.15000947899994,-9.584928959689737,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.14937436699994,-9.585848994689689,0 -62.14940143899998,-9.585793210689708,0 -62.14946430799994,-9.585808599689704,0 -62.14951364399997,-9.585812111689682,0 -62.14946199399999,-9.585807116689695,0 -62.14940066099995,-9.585792901689734,0 -62.14937367999993,-9.585850334689724,0 -62.14941111999996,-9.585907308689686,0 -62.14937436699994,-9.585848994689689,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.14955800299998,-9.585977382689693,0 -62.14946013499997,-9.585941477689689,0 -62.14955980999999,-9.585978932689727,0 -62.14955800299998,-9.585977382689693,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.14992009999997,-9.585995634689708,0 -62.14990982099994,-9.585990700689703,0 -62.14991993499995,-9.585995935689708,0 -62.14992009999997,-9.585995634689708,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.14800155299997,-9.584322756689739,0 -62.14800173399993,-9.584322900689749,0 -62.14800658299998,-9.584324158689746,0 -62.14800155299997,-9.584322756689739,0 
+							</coordinates>
+						</LinearRing>
+					</innerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00019">
+			<name>Joselina Medeiro Evaristo</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Joselina Medeiro Evaristo</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Joselina Medeiro Evaristo</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,2</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF/ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>264</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>RO-133</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.06933183099994,-9.553062464690699,0 -62.06989733899996,-9.552416469690762,0 -62.07034890499995,-9.55283617569075,0 -62.06975390599997,-9.553489790690707,0 -62.06933183099994,-9.553062464690699,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.07141869799994,-9.550998541690783,0 -62.07286605199992,-9.549741228690825,0 -62.07351683799993,-9.550108446690821,0 -62.07168391899995,-9.551457612690792,0 -62.07141869799994,-9.550998541690783,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00020">
+			<name>Airton Leite da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Airton Leite da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Airton Leite da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,94</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>63</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>16/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.18750568499996,-9.223244194701019,0 -62.18753420399997,-9.224801540700995,0 -62.18653729699997,-9.224798039700957,0 -62.18639829999995,-9.223229110701038,0 -62.18750568499996,-9.223244194701019,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00021">
+			<name>Vânio Vagner de Souza Silveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Vânio Vagner de Souza Silveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Vânio Vagner de Souza Silveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,48</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>29</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>02/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.18826862999999,-9.258622039699942,0 -62.18823385199994,-9.259011564699929,0 -62.18698937699999,-9.258941375699891,0 -62.18570787299996,-9.258937132699913,0 -62.18567744499996,-9.258385908699941,0 -62.18567331099996,-9.258381790699946,0 -62.18826862999999,-9.258622039699942,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00022">
+			<name>Manoel Francisco Caetano</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Manoel Francisco Caetano</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Manoel Francisco Caetano</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,84</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>566</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>01/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.10283953599997,-9.461120703693577,0 -62.10424540799993,-9.45874496269367,0 -62.10512085099999,-9.459571848693617,0 -62.10362655599995,-9.461730900693572,0 -62.10283953599997,-9.461120703693577,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.10345714699997,-9.457994459693689,0 -62.10373830999999,-9.457641568693719,0 -62.10542876699999,-9.459232216693662,0 -62.10513163099995,-9.459572074693613,0 -62.10345714699997,-9.457994459693689,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00023">
+			<name>Leví de Oliveira Santos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Leví de Oliveira Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Leví de Oliveira Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,87</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>699</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>22/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22729343599997,-9.473854539693175,0 -62.22634781099999,-9.473831755693226,0 -62.22659366999995,-9.473083163693211,0 -62.22761165899994,-9.472813922693208,0 -62.22827775499997,-9.472999353693234,0 -62.22811388999999,-9.473860987693197,0 -62.22729343599997,-9.473854539693175,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22794254399998,-9.470074523693286,0 -62.22823879699995,-9.469926389693317,0 -62.22841043699997,-9.470335910693303,0 -62.22834380999996,-9.470408939693321,0 -62.22820533099997,-9.470423577693303,0 -62.22804109799995,-9.470489548693326,0 -62.22792162199995,-9.470581423693275,0 -62.22778157799997,-9.470602959693293,0 -62.22755379299996,-9.470569028693275,0 -62.22735696499997,-9.47058796169331,0 -62.22716677199998,-9.470599183693324,0 -62.22701411099996,-9.470644803693299,0 -62.22681495799996,-9.47078259069327,0 -62.22674575899998,-9.470967478693297,0 -62.22657954899995,-9.470979055693308,0 -62.22643827799993,-9.471031153693275,0 -62.22631878899995,-9.471116533693301,0 -62.22630849599995,-9.4711943806933,0 -62.22630192699995,-9.471243654693289,0 -62.22623784299998,-9.471235468693289,0 -62.22609704299999,-9.47123227769327,0 -62.22595008899999,-9.471226739693289,0 -62.22585421399999,-9.471206501693297,0 -62.22570535399996,-9.471277088693277,0 -62.22560486799996,-9.471323285693293,0 -62.22541951399995,-9.471297583693277,0 -62.22528652899997,-9.471305907693298,0 -62.22510825199998,-9.471347210693285,0 -62.22501401999995,-9.47135223069329,0 -62.22482001599997,-9.471330118693279,0 -62.22466470499995,-9.471310490693263,0 -62.22450552299996,-9.471349272693248,0 -62.22436792599996,-9.471355459693246,0 -62.22412185799993,-9.471285950693291,0 -62.22406711999998,-9.471264040693249,0 -62.22370458599993,-9.471146977693307,0 -62.22345164999997,-9.470987304693269,0 -62.22330802799996,-9.470943776693277,0 -62.22315624599997,-9.470969999693297,0 -62.22301574299996,-9.470785437693287,0 -62.22306839099996,-9.470567217693272,0 -62.22346649099996,-9.470784795693312,0 -62.22378845499998,-9.470800244693297,0 -62.22413529499995,-9.470901065693289,0 -62.22428184999995,-9.471025100693282,0 -62.22471507399996,-9.471069252693267,0 -62.22501019399994,-9.471074227693293,0 -62.22541050799998,-9.471055006693293,0 -62.22596368799997,-9.470842518693308,0 -62.22628595699996,-9.470682232693275,0 -62.22669259599995,-9.470445234693292,0 -62.22710483799995,-9.470217593693315,0 -62.22766912599997,-9.470230778693317,0 -62.22794254399998,-9.470074523693286,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00024">
+			<name>Ailton Leal da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ailton Leal da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Ailton Leal da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,97</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>195</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>TB-14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Tabajara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Tabajara</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>02/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.14017926299994,-9.198057258701795,0 -62.13995988499994,-9.198014287701826,0 -62.13987843999996,-9.197857018701832,0 -62.14002947199998,-9.197802516701824,0 -62.14085852599992,-9.198096054701804,0 -62.14231244799999,-9.19860301770181,0 -62.14226606999994,-9.198815211701778,0 -62.14189659199998,-9.198685981701811,0 -62.14141705199995,-9.198423706701805,0 -62.14072274199997,-9.198137018701797,0 -62.14062103799994,-9.198164100701829,0 -62.14056808199996,-9.198150852701813,0 -62.14043457799994,-9.198210833701799,0 -62.14035450899998,-9.198335808701803,0 -62.14039526399997,-9.19846047070182,0 -62.14054278899994,-9.198869378701804,0 -62.14066663299996,-9.199002182701776,0 -62.14067015299997,-9.199088444701797,0 -62.14060554699995,-9.199174114701773,0 -62.14050718299995,-9.19918963070179,0 -62.14041184699994,-9.199132052701792,0 -62.14039276299997,-9.199054230701762,0 -62.14034945599997,-9.198925482701753,0 -62.14028650999996,-9.198751455701803,0 -62.14020081599995,-9.198546421701778,0 -62.14012888799994,-9.198480903701793,0 -62.14014790399995,-9.198303152701774,0 -62.14005889699995,-9.198180711701808,0 -62.140040066,-9.198095320701782,0 -62.14017956199998,-9.198113214701834,0 -62.14017926299994,-9.198057258701795,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.13442173699997,-9.197549677701847,0 -62.13447610299994,-9.197171844701844,0 -62.13462602999993,-9.197060684701826,0 -62.13488541099996,-9.196872377701862,0 -62.13501727999994,-9.196652475701839,0 -62.13502055099997,-9.196199385701847,0 -62.13502186599994,-9.196047552701891,0 -62.13634407799999,-9.196513907701833,0 -62.13622823299994,-9.196715045701851,0 -62.13607630899998,-9.196888701701859,0 -62.13593678299998,-9.197074592701855,0 -62.13569421699998,-9.197374388701824,0 -62.13547631499995,-9.197568829701837,0 -62.13513485499994,-9.197798440701838,0 -62.13442173699997,-9.197549677701847,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00025">
+			<name>Lindalva da Silva de Oliveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lindalva da Silva de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Lindalva da Silva de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,37</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>700</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>-</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22752607899997,-9.473916020693219,0 -62.22748587199993,-9.474785768693149,0 -62.22683723699998,-9.474948971693143,0 -62.22615208699995,-9.475014610693156,0 -62.22565009199997,-9.474921253693189,0 -62.22564253799994,-9.474384011693198,0 -62.22566117199995,-9.473860218693201,0 -62.22752607899997,-9.473916020693219,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00026">
+			<name>Jorge dos Reis de Oliveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jorge dos Reis de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Jorge dos Reis de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>1021</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-05</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>5º BEC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22145460899997,-9.605107394689103,0 -62.22108060699998,-9.604867516689104,0 -62.22077558899996,-9.60504045268911,0 -62.22078301099997,-9.605275915689072,0 -62.22079145599997,-9.605466421689092,0 -62.22092474999995,-9.605729292689096,0 -62.22093072899996,-9.606276422689053,0 -62.22073601399995,-9.60627796668904,0 -62.22050640699996,-9.60524629568911,0 -62.22052239599997,-9.604451737689136,0 -62.22148834999996,-9.60449952768913,0 -62.22145460899997,-9.605107394689103,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00027">
+			<name>Juvercino Golombieski</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Juvercino Golombieski</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Juvercino Golombieski</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,3</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>713</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MA-37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>16/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.19233723599995,-9.455383600693752,0 -62.19349935399998,-9.458315686693712,0 -62.19294670299997,-9.458351440693656,0 -62.19282356199994,-9.45809482269369,0 -62.19282269199994,-9.458036669693691,0 -62.19282131399996,-9.45808101669366,0 -62.19200559999996,-9.456298133693743,0 -62.19110861599996,-9.456710661693757,0 -62.19098255199999,-9.456532580693757,0 -62.19086970899998,-9.45631560669375,0 -62.19081112899994,-9.456143105693752,0 -62.19080749499995,-9.456013802693763,0 -62.19156631299995,-9.455518392693792,0 -62.19211740999998,-9.455425772693763,0 -62.19211726099996,-9.455426749693773,0 -62.19233723599995,-9.455383600693752,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+					<innerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.19217408199995,-9.455949135693757,0 -62.19205677699996,-9.455834526693781,0 -62.19209257899995,-9.45558909969375,0 -62.19205522499994,-9.455834791693764,0 -62.19235688299995,-9.456156260693724,0 -62.19217408199995,-9.455949135693757,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.19275878299998,-9.456615005693713,0 -62.19262345899995,-9.456308958693743,0 -62.19262135199995,-9.456308038693752,0 -62.19275743799994,-9.456614120693752,0 -62.19263876699994,-9.456940125693718,0 -62.19275878299998,-9.456615005693713,0 
+							</coordinates>
+						</LinearRing>
+						<LinearRing>
+							<coordinates>
+								-62.19266052299997,-9.457195964693689,0 -62.19261663299994,-9.457000931693736,0 -62.19261602199998,-9.457002610693717,0 -62.19266065099998,-9.457199895693725,0 -62.19279458299997,-9.457312162693686,0 -62.19266052299997,-9.457195964693689,0 
+							</coordinates>
+						</LinearRing>
+					</innerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00028">
+			<name>Ilto Luiz Casa Nova</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ilto Luiz Casa Nova</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Ilto Luiz Casa Nova</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,19</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>702</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>MP-113</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Machadinho</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.22120906199996,-9.482689056692921,0 -62.22182646199997,-9.482270725692946,0 -62.22236038799997,-9.482851310692896,0 -62.22174746799993,-9.483324928692881,0 -62.22120906199996,-9.482689056692921,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.21858142899998,-9.477788349693087,0 -62.21868634699996,-9.477660745693095,0 -62.21874685099994,-9.4774599386931,0 -62.21930117199997,-9.477831054693084,0 -62.21924346799996,-9.477885344693064,0 -62.21903911599998,-9.47797576669309,0 -62.21901329699994,-9.478320866693084,0 -62.21900647099994,-9.478543323693023,0 -62.21890820999995,-9.478613342693047,0 -62.21858142899998,-9.477788349693087,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00029">
+			<name>Clemilda Barbosa de Freitas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Clemilda Barbosa de Freitas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Clemilda Barbosa de Freitas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>0,78</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>49</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Machadinho D'Oeste</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Belo Horizonte</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>02/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Selecionado</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.18942159299996,-9.238618964700532,0 -62.19048885399997,-9.238459518700537,0 -62.19054064199997,-9.23883937470052,0 -62.18946209399995,-9.238990702700534,0 -62.18942159299996,-9.238618964700532,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.18791027099996,-9.239998281700478,0 -62.18779508899998,-9.239651322700532,0 -62.18826763599998,-9.238930700700538,0 -62.18831251699998,-9.238874389700557,0 -62.18850984399995,-9.238630262700536,0 -62.18829212499998,-9.238126684700543,0 -62.18857819999995,-9.238132190700581,0 -62.18876741499997,-9.238565717700553,0 -62.18872897499995,-9.238796723700522,0 -62.18849321899995,-9.239185868700497,0 -62.18843586699995,-9.239232470700548,0 -62.18796238599998,-9.239669873700514,0 -62.18807684399997,-9.239987219700478,0 -62.18802493799997,-9.240348445700464,0 -62.18787404699997,-9.2403500977005,0 -62.18791027099996,-9.239998281700478,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00030">
+			<name>Dolsimeri Palavicini</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dolsimeri Palavicini</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Dolsimeri Palavicini</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,49</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SSP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>194</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>CP-36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>16/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.56320902099997,-9.371514740696378,0 -62.56239417799996,-9.372219641696361,0 -62.56154138199998,-9.367700150696505,0 -62.56233672199995,-9.367665354696483,0 -62.56320902099997,-9.371514740696378,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00031">
+			<name>Francisco Rodrigues da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Francisco Rodrigues da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Francisco Rodrigues da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,17</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>72</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>15/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.67776627599994,-9.366653438696536,0 -62.67772644099996,-9.366650515696524,0 -62.67766799499997,-9.366669960696543,0 -62.67760468999995,-9.366732134696536,0 -62.67759108499996,-9.366813653696523,0 -62.67757875399996,-9.366864212696507,0 -62.67756274899995,-9.366889142696559,0 -62.67753316199998,-9.36691390469651,0 -62.67758773399998,-9.367003854696527,0 -62.67753391099995,-9.367113934696537,0 -62.67748890199994,-9.367163377696501,0 -62.67743562199996,-9.367151369696501,0 -62.67738588499997,-9.367133697696549,0 -62.67730639999997,-9.367229161696512,0 -62.67725346299995,-9.367255020696515,0 -62.67721921199995,-9.367284881696547,0 -62.67708842399998,-9.367435076696488,0 -62.67703892499998,-9.367512854696534,0 -62.67697356799994,-9.367580494696528,0 -62.67689893699998,-9.367588969696485,0 -62.67683690999996,-9.3675744126965,0 -62.67680688099993,-9.36758492969652,0 -62.67674269499997,-9.367617995696534,0 -62.67669967999995,-9.367605353696535,0 -62.67670595799996,-9.367383793696542,0 -62.67686120699995,-9.367242350696529,0 -62.67717245699998,-9.367034566696537,0 -62.67731036099998,-9.366925303696528,0 -62.67745854099996,-9.366814846696528,0 -62.67752226799997,-9.366614612696557,0 -62.67788128499994,-9.366510429696541,0 -62.67789181299997,-9.366683836696511,0 -62.67788771899996,-9.36694326869651,0 -62.67787136099997,-9.367199982696546,0 -62.67787315399995,-9.367393348696503,0 -62.67786756499999,-9.36765402369649,0 -62.67786160099996,-9.36799912369648,0 -62.67761220299996,-9.367970436696485,0 -62.67696275799995,-9.367926238696475,0 -62.67695722699996,-9.367859001696479,0 -62.67690107599998,-9.367816400696523,0 -62.67700072299994,-9.367769140696492,0 -62.67706596399994,-9.367754485696516,0 -62.67714342899996,-9.367688772696493,0 -62.67718749099999,-9.36764894569653,0 -62.67720781299992,-9.367503634696496,0 -62.67717575299998,-9.367445900696501,0 -62.67711771699999,-9.367460874696512,0 -62.67708916799995,-9.367435680696524,0 -62.67721815999995,-9.367286080696543,0 -62.67723361499997,-9.367360100696541,0 -62.67727471799998,-9.367404804696541,0 -62.67730586499994,-9.367419601696488,0 -62.67735351599998,-9.367430841696537,0 -62.67739013399996,-9.36742419469652,0 -62.67739948299999,-9.367390994696503,0 -62.67741213799997,-9.36735410869653,0 -62.67746715099998,-9.367315833696519,0 -62.67754131399993,-9.367263530696503,0 -62.67758072299996,-9.367229200696501,0 -62.67758407899999,-9.367226036696536,0 -62.67760892499996,-9.367204280696512,0 -62.67763245599998,-9.367158923696536,0 -62.67766334399994,-9.367119969696546,0 -62.67769204699994,-9.367116503696535,0 -62.67770328399997,-9.367074053696518,0 -62.67769110899996,-9.367055032696504,0 -62.67765431699996,-9.367025253696518,0 -62.67762580299995,-9.367005834696505,0 -62.67758843899998,-9.367004085696525,0 -62.67753340799999,-9.366915275696506,0 -62.67756215999997,-9.366918951696514,0 -62.67759474699994,-9.36693878669656,0 -62.67763237599996,-9.366951949696508,0 -62.67765797699996,-9.366932972696541,0 -62.67768828399994,-9.366897712696536,0 -62.67770715899996,-9.366837712696519,0 -62.67772152299995,-9.366812152696536,0 -62.67776448299998,-9.366786265696547,0 -62.67778170199996,-9.366743427696532,0 -62.67779256899996,-9.366713205696511,0 -62.67779875099996,-9.366684437696522,0 -62.67778647199998,-9.366662066696524,0 -62.67776627599994,-9.366653438696536,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00032">
+			<name>Luis Carlos Pereira Saraiva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Luis Carlos Pereira Saraiva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Luis Carlos Pereira Saraiva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>RO-205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>16/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.65922972899995,-9.475544259693125,0 -62.65953356399995,-9.475360094693121,0 -62.65981303699994,-9.47535586669316,0 -62.65990434099996,-9.475387463693135,0 -62.65969587799999,-9.475608717693119,0 -62.65963439899997,-9.475574418693126,0 -62.65947947999995,-9.47575849869312,0 -62.65922972899995,-9.475544259693125,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.66000839099996,-9.475085737693165,0 -62.65994884299995,-9.474896561693177,0 -62.66014098199997,-9.474787309693168,0 -62.66028680699998,-9.474851882693139,0 -62.66035616799996,-9.474885147693151,0 -62.66010544199997,-9.475159116693178,0 -62.66000839099996,-9.475085737693165,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.66194343699993,-9.472295160693269,0 -62.66200316899995,-9.472203306693265,0 -62.66210406399993,-9.472274648693219,0 -62.66212315399997,-9.472303409693229,0 -62.66192503699995,-9.472452010693258,0 -62.66172307199997,-9.472485074693235,0 -62.66163888199998,-9.472496456693261,0 -62.66157235299995,-9.472496970693225,0 -62.66149887199998,-9.472436587693224,0 -62.66133134999996,-9.472448232693255,0 -62.66108857599994,-9.472452384693224,0 -62.66098816799996,-9.472408916693224,0 -62.66108540599998,-9.472456893693231,0 -62.66136158599995,-9.472466407693229,0 -62.66147410599995,-9.472483563693242,0 -62.66156290599998,-9.472536790693265,0 -62.66164378599996,-9.472538411693233,0 -62.66170931299996,-9.472530267693239,0 -62.66191784099993,-9.472508811693226,0 -62.66194163699998,-9.472508032693222,0 -62.66189028699994,-9.472554927693246,0 -62.66159150399994,-9.472636597693231,0 -62.66146708699994,-9.472596685693254,0 -62.66104003999994,-9.47258329669325,0 -62.66078776699999,-9.472468095693227,0 -62.66084979799996,-9.472342349693252,0 -62.66084949699996,-9.472338224693221,0 -62.66095832099995,-9.472225172693262,0 -62.66110472899999,-9.472369614693221,0 -62.66151661999999,-9.472322535693268,0 -62.66160850899995,-9.472390148693265,0 -62.66167645299998,-9.472390241693249,0 -62.66177810799996,-9.472392174693269,0 -62.66194343699993,-9.472295160693269,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00033">
+			<name>Elsio de Bessa e Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Elsio de Bessa e Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Elsio de Bessa e Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,8</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>87/88/89</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-94</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>6</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>15/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.63362290599998,-9.193453813701952,0 -62.63300985199999,-9.193452166701974,0 -62.63276894599994,-9.193547842701975,0 -62.63240301499996,-9.193647870701934,0 -62.63198516499995,-9.193686098701926,0 -62.63192578699995,-9.193522897701969,0 -62.63186073499998,-9.193367024701935,0 -62.63189060199994,-9.193198801701934,0 -62.63194963099994,-9.193058243701943,0 -62.63195105599994,-9.192916842701996,0 -62.63199456599995,-9.192505394701987,0 -62.63206081699997,-9.192363172701967,0 -62.63226339499995,-9.192398120701972,0 -62.63239244399995,-9.192388547701972,0 -62.63257254299998,-9.192420480701975,0 -62.63265311299995,-9.192451496702011,0 -62.63279770299994,-9.192508446701996,0 -62.63305742199997,-9.192551174701977,0 -62.63306667999995,-9.192547778701966,0 -62.63321133399995,-9.192529477701955,0 -62.63322680899995,-9.192525986701982,0 -62.63324548299994,-9.192519157701952,0 -62.63341800199999,-9.192516883701959,0 -62.63343311499995,-9.192523277701982,0 -62.63343928299997,-9.192523196701988,0 -62.63358303599996,-9.192544357701994,0 -62.63366387099995,-9.192582668701958,0 -62.63380622099999,-9.192531577701974,0 -62.63398500399997,-9.192514579701994,0 -62.63420616199993,-9.192576945702003,0 -62.63414898599996,-9.193353524701966,0 -62.63362290599998,-9.193453813701952,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00034">
+			<name>Arlindo da Silva Vieira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Arlindo da Silva Vieira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Arlindo da Silva Vieira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>40/42</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>RO-205</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>8</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Leste MT</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>14/07/2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.67111876699993,-9.508001552692104,0 -62.67103255999996,-9.508772244692086,0 -62.67002209799994,-9.508810921692106,0 -62.66996434699995,-9.508050447692124,0 -62.67081814799997,-9.508034921692154,0 -62.67111876699993,-9.508001552692104,0 -62.67111876699993,-9.508001552692104,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00035">
+			<name>Adalto Pereira de Souza</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Adalto Pereira de Souza</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Adalto Pereira de Souza</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,1</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>42</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>28/08/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.67121758999997,-9.434646608694434,0 -62.67168557199994,-9.434408888694414,0 -62.67241618299994,-9.434375857694427,0 -62.67256299599995,-9.434523978694415,0 -62.67276131299997,-9.434657518694388,0 -62.67299931999999,-9.434817229694424,0 -62.67326772499996,-9.434942005694428,0 -62.67358315899998,-9.435083236694409,0 -62.67380054799996,-9.435102632694377,0 -62.67372144199999,-9.435815313694397,0 -62.67127250799995,-9.435830767694387,0 -62.67121758999997,-9.434646608694434,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.67441094499997,-9.433539576694477,0 -62.67445988299995,-9.43360888069444,0 -62.67445207199995,-9.433822049694435,0 -62.67445429599996,-9.433884613694453,0 -62.67443842599995,-9.434774823694388,0 -62.67431130699999,-9.434892426694422,0 -62.67413303899998,-9.434928420694394,0 -62.67410451899998,-9.434945521694422,0 -62.67396547799996,-9.435074717694404,0 -62.67396744799999,-9.434950124694399,0 -62.67395532199999,-9.434854303694401,0 -62.67396442599994,-9.434609695694405,0 -62.67398829099994,-9.434508036694412,0 -62.67396712599998,-9.434387663694402,0 -62.67393067699998,-9.434298934694432,0 -62.673958434,-9.434165491694456,0 -62.67402645799996,-9.434019156694452,0 -62.67405111099998,-9.433909704694452,0 -62.67405846299993,-9.433836704694464,0 -62.67406110999996,-9.433688928694464,0 -62.67405653699996,-9.433655724694434,0 -62.67400495299995,-9.433642810694467,0 -62.67401805699996,-9.433602558694446,0 -62.67401995299998,-9.433549971694477,0 -62.67402733399996,-9.433547061694442,0 -62.67436659899994,-9.433555069694453,0 -62.67441094499997,-9.433539576694477,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00036">
+			<name>Adão Inacio da Silva</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Adão Inacio da Silva</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Adão Inacio da Silva</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>5,32</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>55</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>08/10/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.69285058199995,-9.38625348369593,0 -62.69284954099999,-9.388467285695885,0 -62.69063140099996,-9.388436154695871,0 -62.69112970199996,-9.386203266695905,0 -62.69285058199995,-9.38625348369593,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00037">
+			<name>Saldino Marinho Pereira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Saldino Marinho Pereira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Saldino Marinho Pereira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,26</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>62</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>08/10/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.67588360299995,-9.389444356695819,0 -62.67590561599997,-9.389633165695823,0 -62.67589824599997,-9.390195688695791,0 -62.67548356399994,-9.390191863695824,0 -62.67535002599993,-9.390532377695772,0 -62.67526607399999,-9.390496875695774,0 -62.67496870099996,-9.390532321695797,0 -62.67467048899994,-9.39007237269581,0 -62.67484715199998,-9.389429472695825,0 -62.67518383199995,-9.3894501796958,0 -62.67588360299995,-9.389444356695819,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00038">
+			<name>Ulises Ramos de Oliveira</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ulises Ramos de Oliveira</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Ulises Ramos de Oliveira</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>0,28</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>56</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>08/10/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.68494257999998,-9.38384703069601,0 -62.68476571599996,-9.385592487695924,0 -62.68431749999996,-9.385803204695931,0 -62.68387106699998,-9.385891823695927,0 -62.68395270799994,-9.383863129696,0 -62.68494257999998,-9.38384703069601,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00039">
+			<name>Telmo José Bevanger</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Telmo José Bevanger</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Telmo José Bevanger</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,01</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>213</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>08/10/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.67615990099994,-9.238047628700539,0 -62.67660869799994,-9.238375641700534,0 -62.67666981299994,-9.238968207700536,0 -62.67664245999998,-9.239291933700505,0 -62.67638377699996,-9.239479864700526,0 -62.67619573399998,-9.239762639700533,0 -62.67611502799998,-9.239950965700528,0 -62.67602762199993,-9.240163246700481,0 -62.67590176699996,-9.240316641700462,0 -62.67580161699993,-9.240461043700501,0 -62.67579995799998,-9.240623922700454,0 -62.67564476599995,-9.240731302700484,0 -62.67555708599996,-9.240826190700458,0 -62.67550081399997,-9.240903845700498,0 -62.67547279499997,-9.240976129700492,0 -62.67538660299993,-9.241056260700439,0 -62.67526750299999,-9.24116809370044,0 -62.67519796399995,-9.241218923700457,0 -62.67506635099995,-9.241286954700469,0 -62.67478165299997,-9.241312182700439,0 -62.67462789499995,-9.241175994700445,0 -62.67439556699998,-9.241185160700484,0 -62.67442227899995,-9.240927331700469,0 -62.67509762699995,-9.240901234700482,0 -62.67531942899996,-9.240692334700471,0 -62.67567653099996,-9.240188961700472,0 -62.67582987799995,-9.239887009700507,0 -62.67609292199996,-9.238062605700579,0 -62.67615990099994,-9.238047628700539,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00040">
+			<name>Efigênia Rita Galdino</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Efigênia Rita Galdino</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Efigênia Rita Galdino</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,13</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>141</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>CA-16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>08/10/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.56394035899995,-9.291287495698878,0 -62.56432771599999,-9.29046428669893,0 -62.56598809899999,-9.291080508698872,0 -62.56568746299995,-9.29197559369887,0 -62.56394035899995,-9.291287495698878,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.56049220699997,-9.28547601069908,0 -62.56054258799998,-9.285436420699053,0 -62.56065926799995,-9.285337459699067,0 -62.56077413499997,-9.285260552699073,0 -62.56090011799995,-9.28519069869907,0 -62.56101705499999,-9.285070413699097,0 -62.56118967899994,-9.2849791986991,0 -62.56180863499998,-9.285932686699063,0 -62.56102792499996,-9.286273796699074,0 -62.56049220699997,-9.28547601069908,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00041">
+			<name>Carlinhos Galdino dos Santos</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Carlinhos Galdino dos Santos</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Carlinhos Galdino dos Santos</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>4,45</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>153</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>CA-16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>08/10/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.55566661799998,-9.28265052569915,0 -62.55355187999999,-9.282728879699191,0 -62.55294943899997,-9.282767003699146,0 -62.55230010799995,-9.281645332699215,0 -62.55279677399994,-9.281601461699212,0 -62.55469169299994,-9.281351930699213,0 -62.55540133699999,-9.281370839699216,0 -62.55566661799998,-9.28265052569915,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00042">
+			<name>Raulino Galdino</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Raulino Galdino</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Raulino Galdino</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>2,7</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>ERF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>154</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>CA-16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PA Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>08/10/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.55291503199998,-9.282760048699139,0 -62.55125909299995,-9.282885522699152,0 -62.55096645299994,-9.282489590699159,0 -62.55081069499994,-9.28215528169919,0 -62.55055339799998,-9.281569489699226,0 -62.55078665099995,-9.281540965699213,0 -62.55113451199998,-9.281530990699201,0 -62.55155974399996,-9.281537421699172,0 -62.55190641399997,-9.281630107699188,0 -62.55227539899995,-9.281651341699218,0 -62.55291503199998,-9.282760048699139,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00043">
+			<name>Juarez do Amaral</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Juarez do Amaral</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Juarez do Amaral</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>1,61</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>APP/SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>72</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>21/07/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.68246218099994,-9.350035754697071,0 -62.68246242899994,-9.349620281697051,0 -62.68247629699994,-9.349514252697061,0 -62.68257019899994,-9.34942864169709,0 -62.68259400799997,-9.349162307697094,0 -62.68262239599994,-9.349044907697078,0 -62.68272825599997,-9.349057997697114,0 -62.68289209499994,-9.349090191697083,0 -62.68297480599994,-9.349110450697078,0 -62.68315909099994,-9.349140559697101,0 -62.68312172799994,-9.34925141569709,0 -62.68307965099995,-9.349419388697061,0 -62.68307613899998,-9.349484543697072,0 -62.68306661399998,-9.349565005697096,0 -62.68304976299998,-9.349641000697073,0 -62.68300334699995,-9.349762400697076,0 -62.68299994199996,-9.349838594697049,0 -62.68299329699994,-9.349989635697082,0 -62.68295261999997,-9.350041860697072,0 -62.68246218099994,-9.350035754697071,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.68266650099997,-9.348991025697105,0 -62.68266643699997,-9.348382074697117,0 -62.68278410999994,-9.347808121697122,0 -62.68372228299996,-9.347848248697153,0 -62.68359356299999,-9.348044788697138,0 -62.68338710899997,-9.348252902697109,0 -62.68323972699994,-9.348550832697086,0 -62.68318684199994,-9.348811399697075,0 -62.68316752299995,-9.349056245697112,0 -62.68266650099997,-9.348991025697105,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark id="ID_00044">
+			<name>Arnaldo Lopes Palma</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Arnaldo Lopes Palma</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Nome</td>
+
+<td>Arnaldo Lopes Palma</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Área (ha)</td>
+
+<td>3,6</td>
+
+</tr>
+
+<tr>
+
+<td>Sistema</td>
+
+<td>SAF</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Lote</td>
+
+<td>22</td>
+
+</tr>
+
+<tr>
+
+<td>Linha</td>
+
+<td>B-90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Gleba</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+<tr>
+
+<td>PA</td>
+
+<td>PF Jaru Ouro Preto</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Município</td>
+
+<td>Cujubim</td>
+
+</tr>
+
+<tr>
+
+<td>Setor</td>
+
+<td>Setor 90</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Seleção</td>
+
+<td>2014 - 2015</td>
+
+</tr>
+
+<tr>
+
+<td>Contrato</td>
+
+<td>19/11/2014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Execução</td>
+
+<td>2015 - 2016</td>
+
+</tr>
+
+<tr>
+
+<td>Status</td>
+
+<td>Concluso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.67496660299997,-9.484671283692849,0 -62.67444629799996,-9.484554936692836,0 -62.67484614499995,-9.483587471692893,0 -62.67546310899997,-9.483600886692905,0 -62.67558529099994,-9.484906670692872,0 -62.67496660299997,-9.484671283692849,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-62.67559232699995,-9.484906365692858,0 -62.67547684499994,-9.483601414692888,0 -62.67548723799997,-9.483097222692912,0 -62.67603804199997,-9.483113900692921,0 -62.67606211899994,-9.483114573692909,0 -62.67606212699996,-9.483114629692885,0 -62.67653983699994,-9.48312909369289,0 -62.67678675099996,-9.483673371692879,0 -62.67675005999996,-9.48468442269288,0 -62.67675008499998,-9.484953147692828,0 -62.67672755099994,-9.485045351692822,0 -62.67559232699995,-9.484906365692858,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
