@@ -26,13 +26,8 @@
 
 .ol-attribution{
 	background-color: rgba(0,0,0,.6);
-<<<<<<< HEAD
-<<<<<<< HEAD
   bottom: 10px;
-=======
->>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
-=======
->>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
+
 }
 
 .ol-attribution li {
@@ -45,25 +40,16 @@
   color: white;
   z-index: 3;
   left: 5px;
-<<<<<<< HEAD
-<<<<<<< HEAD
   bottom: 3px;
 }
 
 .ol-scale-line {
   position: absolute;
-=======
-=======
->>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
   bottom: 10px;
 }
 
 .ol-scale-line {
   position: relative;
-<<<<<<< HEAD
->>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
-=======
->>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
   background-color: rgba(0,0,0,.6);
   color: #888;
   content: "Escala";
