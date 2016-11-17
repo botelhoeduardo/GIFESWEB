@@ -33,6 +33,7 @@ html, body {
 	bottom: 0;
 	top: 0;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	width: 99vw;
 	margin: 0;
 	margin-bottom: 2em;
@@ -45,6 +46,8 @@ html, body {
 #layers {
 	position: absolute;
 =======
+=======
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 	width: 100vw;
 	margin: 0;
 	padding: 0;
@@ -53,6 +56,9 @@ html, body {
 
 #layers {
 	position: fixed;
+<<<<<<< HEAD
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
+=======
 >>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 	z-index: 2;
 	/*background-color: rgba(0, 60, 136, 0.7);*/
@@ -61,7 +67,11 @@ html, body {
 	padding: 5px 14px;
 	right: 15px;
 <<<<<<< HEAD
+<<<<<<< HEAD
 	top: 15%;
+=======
+	top: 8%;
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 =======
 	top: 8%;
 >>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
@@ -74,7 +84,11 @@ html, body {
 
 #esconder {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	position: absolute;
+=======
+	position: fixed;
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 =======
 	position: fixed;
 >>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
@@ -146,15 +160,21 @@ html, body {
 
 #geolocation{
 <<<<<<< HEAD
+<<<<<<< HEAD
 	position: absolute;
 	margin:0;
 	z-index: 2;
 	top: 40%;
 =======
+=======
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 	position: fixed;
 	margin:0;
 	z-index: 2;
 	top: 18%;
+<<<<<<< HEAD
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
+=======
 >>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 	width: 95px;
 	right: 15px;
@@ -216,7 +236,10 @@ html, body {
   position: relative;
   transition: all 0.5s;
 <<<<<<< HEAD
+<<<<<<< HEAD
   margin-left: -1px;
+=======
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 =======
 >>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
   
@@ -259,8 +282,13 @@ html, body {
 
 .menu-btn {
 <<<<<<< HEAD
+<<<<<<< HEAD
   position: absolute;
   top: 2%;
+=======
+  position: fixed;
+  top: 10px;
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 =======
   position: fixed;
   top: 10px;

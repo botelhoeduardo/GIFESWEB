@@ -1107,7 +1107,11 @@ window.measure = function(map,tipo) {
         measureTooltip = new ol.Overlay({
             element: measureTooltipElement,
 <<<<<<< HEAD
+<<<<<<< HEAD
             offset: [0, -20],
+=======
+            offset: [0, -15],
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
 =======
             offset: [0, -15],
 >>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
