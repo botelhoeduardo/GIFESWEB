@@ -1106,7 +1106,11 @@ window.measure = function(map,tipo) {
         measureTooltipElement.className = 'tooltip2 tooltip2-measure';
         measureTooltip = new ol.Overlay({
             element: measureTooltipElement,
+<<<<<<< HEAD
             offset: [0, -20],
+=======
+            offset: [0, -15],
+>>>>>>> ff426deee7515dc3407d24a7d0c988d415c4433f
             positioning: 'bottom-center'
         });
         map.addOverlay(measureTooltip);
