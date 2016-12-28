@@ -1,2 +1,2 @@
 # GIFESWEB
-Geographic Information Front-End System
+Geographic Information System
