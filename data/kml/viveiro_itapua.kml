@@ -33,8 +33,7 @@
       <a href="img/viveiro1.JPG" itemprop="contentUrl" data-size="1024x1024">
           <img src="img/viveiro1.JPG" itemprop="thumbnail" alt="Image description" />
       </a>
-                                          <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>
-                                          
+      <figcaption itemprop="caption description">Imagem: Viveiro Municipal de Itapuã d'Oeste</figcaption>                                          
     </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">

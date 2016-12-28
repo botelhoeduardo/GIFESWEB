@@ -259,7 +259,7 @@ $(document).ready(function() {
 			url: 'data/kml/ucs.kml',
 			format: new ol.format.KML({
                 extractStyles: false
-            })            
+            })
 		}),
 		style: UCsStyle,
 		name: 'UCLayer',
@@ -439,7 +439,7 @@ $(document).ready(function() {
         }
     });
     $('#lim').addClass('selected');
-    
+
     $('ul.classecamadas li').on('click', function(event) {
         event.stopPropagation();
         var myInput = $('input',this)
@@ -471,7 +471,7 @@ $(document).ready(function() {
             layer.setVisible(!layer.getVisible());
     });
 
-	
+
 	$('input[type=radio]').on('change', function(){
 		var layer_map = $(this).val();
 		map.getLayers().getArray().forEach(function(e) {
@@ -483,7 +483,7 @@ $(document).ready(function() {
             && name != 'geomorfologiaLayer' && name != 'geologiaLayer') //para não sumir na troca de radio
 			    e.setVisible(name == layer_map);
 		});
-	});   
+	});
 
     //menu ferramentas
 
@@ -629,7 +629,7 @@ $(document).ready(function() {
             if (feature.get("name") == "Viveiro Municipal de Itapuã do Oeste") {
                 var initPhotoSwipeFromDOM = function(gallerySelector) {
 
-                    // parse slide data (url, title, size ...) from DOM elements 
+                    // parse slide data (url, title, size ...) from DOM elements
                     // (children of gallerySelector)
                     var parseThumbnailElements = function(el) {
                         var thumbElements = el.childNodes,
@@ -644,7 +644,7 @@ $(document).ready(function() {
 
                             figureEl = thumbElements[i]; // <figure> element
 
-                            // include only element nodes 
+                            // include only element nodes
                             if (figureEl.nodeType !== 1) {
                                 continue;
                             }
@@ -785,7 +785,7 @@ $(document).ready(function() {
                         // PhotoSwipe opened from URL
                         if (fromURL) {
                             if (options.galleryPIDs) {
-                                // parse real index when custom PIDs are used 
+                                // parse real index when custom PIDs are used
                                 // http://photoswipe.com/documentation/faq.html#custom-pid-in-url
                                 for (var j = 0; j < items.length; j++) {
                                     if (items[j].pid == index) {
@@ -848,12 +848,12 @@ $(document).ready(function() {
         }
     });
 
-    
-    
+
+
 window.measure = function(map,tipo) {
     var wgs84Sphere = new ol.Sphere(6378137);
 
-    
+
 
     /**
      * Currently drawn feature.
@@ -1124,4 +1124,3 @@ window.measure = function(map,tipo) {
 
     };
 });
-   
