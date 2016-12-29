@@ -190,8 +190,8 @@ $(document).ready(function() {
 	//mapas
 
 	var mapquestLayer = new ol.layer.Tile({
-		source: new ol.source.OSM ({
-			layer: 'osm'
+		source: new ol.source.XYZ ({
+            url: 'https://{a-c}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png'
 		}),
 		visible: false,
 		name: 'mapquest'
