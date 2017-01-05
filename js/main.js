@@ -427,14 +427,14 @@ $(document).ready(function() {
     $('#esconder').on('click', function(e) {
         if ($(this).hasClass('selected')) {
             $(this).removeClass('selected');
-            $(this).children('i').removeClass('fa-angle-left');
-            $(this).children('i').addClass('fa-angle-right');
+            $(this).children('i').removeClass('fa-arrow-left');
+            $(this).children('i').addClass('fa-arrow-right');
             $("#camadas").slideToggle();
         }
         else {
             $(this).addClass('selected');
-            $(this).children('i').addClass('fa-angle-left');
-            $(this).children('i').removeClass('fa-angle-right');
+            $(this).children('i').addClass('fa-arrow-left');
+            $(this).children('i').removeClass('fa-arrow-right');
             $("#camadas").slideToggle();
         }
     });

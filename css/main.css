@@ -60,14 +60,13 @@ html, body {
 }
 
 #esconder {
-	position: absolute;
+	position: relative;
 	z-index: 3;
-	width: 30px;
-	height: 30px;
+	width: 40px;
 	margin-left: 10px;
 	color: #bbb;
 	font-size: 22px;
-	line-height: 1px;
+	line-height: 30px;
 	padding: 8px;
 	background-color: rgba(0,0,0,.6);
 }
@@ -89,8 +88,9 @@ html, body {
 	transition: all 0.4s linear;
 }
 
-#camadas li {
+#camadas ul {
 	display: block;
+	z-index: 3;
 	transition: all .5s ease-out;
 	-webkit-touch-callout: none; /* iOS Safari */
 	-webkit-user-select: none;   /* Chrome/Safari/Opera */
@@ -102,8 +102,7 @@ html, body {
 }
 
 #camadas{
-	position: absolute;
-	margin-top:33px;
+	position: absolute;	
 	width: 19rem;
 	display: table-cell;
 	cursor: pointer;
