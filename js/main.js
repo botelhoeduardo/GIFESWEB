@@ -613,6 +613,7 @@ $(document).ready(function() {
     };
 
     map.on('singleclick', function(evt) {
+
         var feature = map.forEachFeatureAtPixel(evt.pixel,
             function(feature, layer) {
                 return feature;
@@ -851,6 +852,9 @@ $(document).ready(function() {
 
 
 window.measure = function(map,tipo) {
+
+   
+    var features = new Array();
     var wgs84Sphere = new ol.Sphere(6378137);
 
 
@@ -973,7 +977,7 @@ window.measure = function(map,tipo) {
             output = (Math.round(length * 100) / 100) +
                 ' ' + 'm';
         }
-        return output;
+        return output.replace('.',',').replace(/\B(?=(\d{3})+(?!\d))/g, ".");
     };
 
     /**
@@ -1003,7 +1007,8 @@ window.measure = function(map,tipo) {
             output = (Math.round(area * 100) / 100) +
                 ' ' + 'm<sup>2</sup>';
         }
-        return output;
+        //formatar para o portugues '.' para milhares e ',' para casas decimais
+        return output.replace('.',',').replace(/\B(?=(\d{3})+(?!\d))/g, "."); 
     };
 
     function addInteraction() {
@@ -1061,7 +1066,7 @@ window.measure = function(map,tipo) {
             }, this);
 
         draw.on('drawend',
-            function() {
+            function(e) {
                 measureTooltipElement.className = 'tooltip2 tooltip2-static';
                 measureTooltip.setOffset([0, -7]);
                 // unset sketch
@@ -1075,6 +1080,7 @@ window.measure = function(map,tipo) {
                 helpTooltip.setPosition();
                 // createMeasureTooltip();
                 // ol.Observable.unByKey(listener);
+                features.push(e.feature);
             }, this);
     };
 
@@ -1121,6 +1127,15 @@ window.measure = function(map,tipo) {
     };*/
 
     addInteraction();
-
+    
     };
+
+    window.resetMeasure = function(map) {
+        map.getOverlays().getArray().slice(0).forEach(function(ov) {
+            if (overlay != ov) {
+                map.removeOverlay(ov);
+            }
+        });
+        source.clear();
+    }
 });
