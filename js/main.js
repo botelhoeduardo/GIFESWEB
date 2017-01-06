@@ -243,7 +243,7 @@ $(document).ready(function() {
 
 	var drenagemLayer = new ol.layer.Vector({ //Camada dos Corpos d'água
 			source: new ol.source.Vector({
-				url: 'data/kml/drenagem.kml',
+				url: 'data/kml/Drenagem_area_atuacao.kml',
 				format: new ol.format.KML({
 				  extractStyles: false
 				})
@@ -289,7 +289,7 @@ $(document).ready(function() {
 
 	var estradasLayer = new ol.layer.Vector({ //Estradas e Rodovias
 		source: new ol.source.Vector({
-			url: 'data/kml/rodovias.kml',
+			url: 'data/kml/Estradas_area_atuacao.kml',
 			format: new ol.format.KML({
 				extractStyles: false
 			})

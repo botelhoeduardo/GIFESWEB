@@ -62,12 +62,12 @@ html, body {
 #esconder {
 	position: relative;
 	z-index: 3;
-	width: 40px;
+	width: 38px;
 	margin-left: 10px;
 	color: #bbb;
 	font-size: 22px;
 	line-height: 30px;
-	padding: 8px;
+	padding: 4px 8px;
 	background-color: rgba(0,0,0,.6);
 }
 
