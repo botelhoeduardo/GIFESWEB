@@ -311,30 +311,6 @@ $(document).ready(function() {
 		visible: false
 	});
 
-    // var geologiaLayer = new ol.layer.Vector({
-    //     source: new ol.source.Vector({
-    //         url: 'data/kml/geologia.kml',
-    //         format: new ol.format.KML({
-    //             extractStyles: false
-    //         })
-    //     }),
-    //     style: geologiaStyle,
-    //     name: 'geologiaLayer',
-    //     visible:false
-    // });
-
-    // var geomorfologiaLayer = new ol.layer.Vector({
-    //     source: new ol.source.Vector({
-    //         url: 'data/kml/geomorfologia.kml',
-    //         format: new ol.format.KML({
-    //             extractStyles: false
-    //         })
-    //     }),
-    //     style : geomorfStyle,
-    //     name:'geomorfologiaLayer',
-    //     visible: false
-    // });
-
 	//cluster marker
 	//rad
     var clusterSource = new ol.source.Cluster({
@@ -1137,55 +1113,66 @@ window.measure = function(map,tipo) {
         source.clear();
     };
 
-		window.drawAndModify = function(map,type) {
-			var features = new ol.Collection();
-			var featureOverlay = new ol.layer.Vector({
-				source: new ol.source.Vector({features: features}),
-				style: new ol.style.Style({
-					fill: new ol.style.Fill({
-						color: 'rgba(255,255,255,0.2)'
-					}),
-					stroke: new ol.style.Stroke({
-						color: '#ffcc33',
-						width: 2
-					}),
-					image: new ol.style.Circle({
-						radius: 7,
-						fill: new ol.style.Fill({
-							color: '#ffcc33'
-						})
-					})
-				})
-			});
-			featureOverlay.setMap(map);
-			var modify = new ol.interaction.Modify({
-				features: features,
+    var features = new ol.Collection();
+    var featureOverlay = new ol.layer.Vector({
+        source: new ol.source.Vector({features: features}),
+        style: new ol.style.Style({
+            fill: new ol.style.Fill({
+                color: 'rgba(255,255,255,0.2)'
+            }),
+            stroke: new ol.style.Stroke({
+                color: '#ffcc33',
+                width: 2
+            }),
+            image: new ol.style.Circle({
+                radius: 7,
+                fill: new ol.style.Fill({
+                    color: '#ffcc33'
+                })
+            })
+        })
+    });
 
-				deleteCondition: function(event) {
-					return ol.events.condition.shiftKeyOnly(event) &&
-						ol.events.condition.singleClick(event);
-				}
-			});
-			map.addInteraction(modify);
+    window.resetDraw = function(map) {
+        map.getOverlays().getArray().slice(0).forEach(function(ov) {
+            if (overlay != ov) {
+                map.removeOverlay(ov);
+            }
+        });
+        features.clear();
+    };
 
-			var draw;
+	window.drawAndModify = function(map,type) {
+		
+		featureOverlay.setMap(map);
+		var modify = new ol.interaction.Modify({
+			features: features,
 
-			function addInteraction() {
-				draw = new ol.interaction.Draw({
-					features: features,
-					type: /* @type {ol.geom.GeometryType}*/ (type)
-				});
-				map.addInteraction(draw);
+			deleteCondition: function(event) {
+				return ol.events.condition.shiftKeyOnly(event) &&
+					ol.events.condition.singleClick(event);
 			}
+		});
+		map.addInteraction(modify);
 
-			type.onchange = function() {
-				map.removeInteraction(draw);
-				addInteraction();
-			};
-			addInteraction();
+		var draw;
 
-			draw.on('drawend', function(e) {
-				map.removeInteraction(draw);
+		function addInteraction() {
+			draw = new ol.interaction.Draw({
+				features: features,
+				type: /* @type {ol.geom.GeometryType}*/ (type)
 			});
+			map.addInteraction(draw);
+		}
+
+		type.onchange = function() {
+			map.removeInteraction(draw);
+			addInteraction();
 		};
+		addInteraction();
+
+		draw.on('drawend', function(e) {
+			map.removeInteraction(draw);
+		});
+	};
 });
