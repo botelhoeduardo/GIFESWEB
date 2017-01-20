@@ -518,7 +518,7 @@ $(document).ready(function() {
 
     /*Início mostrar características ao passar o ponteiro do mouse*/
 
-    var info = $('#info'); //jquery
+    var info = $('#info');
     info.tooltip({
         animation: false,
         trigger: 'manual'
@@ -550,10 +550,8 @@ $(document).ready(function() {
         displayFeatureInfo(map.getEventPixel(evt.originalEvent));
     });
 
-    /*map.on('click', function(evt) {
-        displayFeatureInfo(evt.pixel);
-    });*/
     /*FIM mostrar características ao passar o ponteiro do mouse*/
+		
     /*Início Tornar o KML selecionável*/
     /*O KML deve ser selecionável para que seja informado o conteúdo de cada polígono ou ponto*/
 
